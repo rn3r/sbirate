@@ -1,0 +1,56 @@
+* {
+    overflow-x: none;
+}
+
+input:checked ~ .dot {
+    transform: translateX(100%);
+}
+
+input:checked ~ .bg {
+    background-color: rgb(202 138 4);
+}
+
+.mobile {
+    display: none
+}
+
+.big-pad {
+    padding: 12rem;
+}
+
+@media only screen and (max-width: 900px){
+    .pc {
+        display: none;
+    }
+    .mobile {
+        display: block
+    }
+    .stretch {
+        width: 100%
+    }
+    .big-pad {
+        padding: 1rem;
+    }
+}
+
+.w-76 {
+    width: 19rem;
+}
+
+/* width */
+::-webkit-scrollbar {
+    width: 5px;
+    background: #3b3b3b;
+}
+   
+::-webkit-scrollbar-thumb {
+    background: #222222; 
+}
+  
+::-webkit-scrollbar-thumb:hover {
+    background: #1b1b1b; 
+}
+
+nav {
+    z-index: 9999 !important;
+}

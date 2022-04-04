@@ -1,0 +1,2166 @@
+{
+    "s1": {
+        "e01": {
+            "title": "1. Help Wanted/Reef Blower/Tea at the Treedome",
+            "airdate": "April 30 1999",
+            "length": "24min",
+            "description": "SpongeBob finally applies for a job at the Krusty Krab./SpongeBob finds the perfect use for his high powered reef blower./SpongeBob meets Sandy Cheeks for the first time.",
+            "redirect": "/watch/s1/e01",
+            "image": "https://res.cloudinary.com/sbirate/image/upload/v1649017178/THUMBNAILS/s1/01_inmv2y.jpg",
+            "video": "https://res.cloudinary.com/sbirate/video/upload/v1648966713/SB%20SEASON%201/01_t6d9aq.mp4"
+        },
+        "e02": {
+            "title": "2. Bubblestand/Ripped Pants",
+            "airdate": "July 16 1999",
+            "length": "24min",
+            "description": "SpongeBob introduces his unique talent of bubble blowing./When SpongeBob tries to impress Sandy Cheeks at Mussel Beach, he ends up ripping his pants.",
+            "redirect": "/watch/s1/e02",
+            "image": "https://res.cloudinary.com/sbirate/image/upload/v1649017179/THUMBNAILS/s1/02_hiffqf.jpg",
+            "video": "https://res.cloudinary.com/sbirate/video/upload/v1648966743/SB%20SEASON%201/02_ltzfqm.mp4"
+        },
+        "e03": {
+            "title": "3. Jellyfishing/Plankton",
+            "airdate": "July 30 1999",
+            "length": "24min",
+            "description": "While Squidward recovers from a bicycle accident, SpongeBob and Patrick takes him jellyfishing./SpongeBob falls victim to a scheme by the evil Plankton.",
+            "redirect": "/watch/s1/e03",
+            "image": "https://res.cloudinary.com/sbirate/image/upload/v1649017179/THUMBNAILS/s1/03_xhyv4e.jpg",
+            "video": "https://res.cloudinary.com/sbirate/video/upload/v1648966723/SB%20SEASON%201/03_diiqoj.mp4"
+        },
+        "e04": {
+            "title": "4. Naughty Nautical Neighbors/Boating School",
+            "airdate": "August 6 1999",
+            "length": "24min",
+            "description": "Squidward plays a joke on SpongeBob and Patrick, but the joke backfires on Squidward./It's exam time again at Mrs. Puff's Boating School.",
+            "redirect": "/watch/s1/e04",
+            "image": "https://res.cloudinary.com/sbirate/image/upload/v1649017179/THUMBNAILS/s1/04_w7v08i.jpg",
+            "video": "https://res.cloudinary.com/sbirate/video/upload/v1648966734/SB%20SEASON%201/04_mwvyw1.mp4"
+        },
+        "e05": {
+            "title": "5. Pizza Delivery/Home Sweet Pineapple",
+            "airdate": "August 13 1999",
+            "length": "24min",
+            "description": "Mr. Krabs has SpongeBob and Squidward make the first successful pizza delivery./SpongeBob is losing his pineapple house to parasites.",
+            "redirect": "/watch/s1/e05",
+            "image": "https://res.cloudinary.com/sbirate/image/upload/v1649017179/THUMBNAILS/s1/05_tfk5f8.jpg",
+            "video": "https://res.cloudinary.com/sbirate/video/upload/v1648966684/SB%20SEASON%201/05_kwbzyf.mp4"
+        },
+        "e06": {
+            "title": "6. Mermaidman and Barnacleboy/Pickles",
+            "airdate": "August 20 1999",
+            "length": "24min",
+            "description": "Watching reruns of Mermaid Man & Barnacle Boy./SpongeBob loses his self-confidence when an arrogant customer claims SpongeBob forgot to put pickles on his Krabby Patty.",
+            "redirect": "/watch/s1/e06",
+            "image": "https://res.cloudinary.com/sbirate/image/upload/v1649017179/THUMBNAILS/s1/06_csqfqj.jpg",
+            "video": "https://res.cloudinary.com/sbirate/video/upload/v1648966732/SB%20SEASON%201/06_oxij2t.mp4"
+        },
+        "e07": {
+            "title": "7. Hall Monitor/Jellyfish Jam",
+            "airdate": "August 27 1999",
+            "length": "24min",
+            "description": "Mrs. Puff's Boating School picks SpongeBob as this weeks Hall Monitor./Over the repeated warning of his friends, SpongeBob takes a wild jellyfish home.",
+            "redirect": "/watch/s1/e07",
+            "image": "https://res.cloudinary.com/sbirate/image/upload/v1649017179/THUMBNAILS/s1/07_hpkqzz.jpg",
+            "video": "https://res.cloudinary.com/sbirate/video/upload/v1648966767/SB%20SEASON%201/07_sbpoh7.mp4"
+        },
+        "e08": {
+            "title": "8. Sandy's Rocket/Squeaky Boots",
+            "airdate": "September 3 1999",
+            "length": "24min",
+            "description": "Sandy has taken on the enviable mission of taking a rocket ship into outer space./Mr. Krabs surreptitiously gives SpongeBob a pair of squeaky boots in lieu of pay.",
+            "redirect": "/watch/s1/e08",
+            "image": "https://res.cloudinary.com/sbirate/image/upload/v1649017179/THUMBNAILS/s1/08_ptf3yb.jpg",
+            "video": "https://res.cloudinary.com/sbirate/video/upload/v1648966730/SB%20SEASON%201/08_qgob97.mp4"
+        },
+        "e09": {
+            "title": "9. Nature Pants/Opposite Day",
+            "airdate": "September 10 1999",
+            "length": "24min",
+            "description": "SpongeBob decides to leave his industrialized life and live off the land with the jellyfish./Fed up with SpongeBob and Patrick, Squidward decides to sell his house.",
+            "redirect": "/watch/s1/e09",
+            "image": "https://res.cloudinary.com/sbirate/image/upload/v1649017179/THUMBNAILS/s1/09_njpvri.jpg",
+            "video": "https://res.cloudinary.com/sbirate/video/upload/v1648966761/SB%20SEASON%201/09_bdi6db.mp4"
+        },
+        "e10": {
+            "title": "10. Culture Shock/F.U.N.",
+            "airdate": "September 17 1999",
+            "length": "24min",
+            "description": "There's a talent show at the Krusty Krab and Squidward takes over the planning./The evil Plankton tries to steal a Krusty Krabs' Krabby Patty.",
+            "redirect": "/watch/s1/e10",
+            "image": "https://res.cloudinary.com/sbirate/image/upload/v1649017179/THUMBNAILS/s1/10_chs3eg.jpg",
+            "video": "https://res.cloudinary.com/sbirate/video/upload/v1648966721/SB%20SEASON%201/10_mc0zjw.mp4"
+        },
+        "e11": {
+            "title": "11. MuscleBob BuffPants/Squidward the Unfriendly Ghost",
+            "airdate": "September 24 1999",
+            "length": "24min",
+            "description": "SpongeBob gets pumped up with the aid of inflatable muscles./Squidward's accidental pasting by a flying shell haunts SpongeBob and Patrick.",
+            "redirect": "/watch/s1/e11",
+            "image": "https://res.cloudinary.com/sbirate/image/upload/v1649017179/THUMBNAILS/s1/11_epcj2y.jpg",
+            "video": "https://res.cloudinary.com/sbirate/video/upload/v1648966757/SB%20SEASON%201/11_jxos1f.mp4"
+        },
+        "e12": {
+            "title": "12. The Chaperone/Employee of the Month",
+            "airdate": "October 8 1999",
+            "length": "24min",
+            "description": "When Mr. Krab's daughter Pearl is stood up, SpongeBob agrees to step in./Mr. Krabs dupes SpongeBob into believing he might break his winning streak and lose to Squidward.",
+            "redirect": "/watch/s1/e12",
+            "image": "https://res.cloudinary.com/sbirate/image/upload/v1649017179/THUMBNAILS/s1/12_flffok.jpg",
+            "video": "https://res.cloudinary.com/sbirate/video/upload/v1648966734/SB%20SEASON%201/12_pz5gzz.mp4"
+        },
+        "e13": {
+            "title": "13. Scaredy Pants/I Was a Teenage Gary",
+            "airdate": "October 27 1999",
+            "length": "24min",
+            "description": "It's Halloween and SpongeBob is the easiest to scare in Bikini Bottom./Squidward reluctantly agrees to take care of SpongeBob's pet snail, Gary.",
+            "redirect": "/watch/s1/e13",
+            "image": "https://res.cloudinary.com/sbirate/image/upload/v1649017179/THUMBNAILS/s1/13_gvszvl.jpg",
+            "video": "https://res.cloudinary.com/sbirate/video/upload/v1648966663/SB%20SEASON%201/13_ahpyp4.mp4"
+        },
+        "e14": {
+            "title": "14. SpongeBob 129/Karate Choppers",
+            "airdate": "December 30 1999",
+            "length": "24min",
+            "description": "Fleeing from SpongeBob and Patrick's consistent noise, Squidward winds up frozen./SpongeBob and Sandy's incessant Karate sparring is starting to wreak havoc in the Krusty Krab.",
+            "redirect": "/watch/s1/e14",
+            "image": "https://res.cloudinary.com/sbirate/image/upload/v1649017179/THUMBNAILS/s1/14_vhy9od.jpg",
+            "video": "https://res.cloudinary.com/sbirate/video/upload/v1648966765/SB%20SEASON%201/14_jvuacs.mp4"
+        },
+        "e15": {
+            "title": "15. Sleepy Time/Suds",
+            "airdate": "January 17 2000",
+            "length": "24min",
+            "description": "SpongeBob suddenly posses the ability to visit the dreams of his friends./SpongeBob comes down with a case of the Suds, an illness which turns him into a bubble-maker.",
+            "redirect": "/watch/s1/e15",
+            "image": "https://res.cloudinary.com/sbirate/image/upload/v1649017179/THUMBNAILS/s1/15_ar6vmv.jpg",
+            "video": "https://res.cloudinary.com/sbirate/video/upload/v1648966767/SB%20SEASON%201/15_wjxzks.mp4"
+        },
+        "e16": {
+            "title": "16. Valentine's Day/The Paper",
+            "airdate": "February 13 2000",
+            "length": "24min",
+            "description": "Valentine's Day/The Paper: Patrick feels snubbed when SpongeBob's Valentine's Day gift doesn't arrive as planned. SpongeBob turns Squidward's old gum wrapper into a magical toy.",
+            "redirect": "/watch/s1/e16",
+            "image": "https://res.cloudinary.com/sbirate/image/upload/v1649017179/THUMBNAILS/s1/16_wapt29.jpg",
+            "video": "https://res.cloudinary.com/sbirate/video/upload/v1648966744/SB%20SEASON%201/16_r8p8ry.mp4"
+        },
+        "e17": {
+            "title": "17. Arrgh!/Rock Bottom",
+            "airdate": "March 14 2000",
+            "length": "24min",
+            "description": "A pretend search for gold turns into a real treasure hunt./SpongeBob gets on the wrong bus and finds himself lost in a mysterious part of the sea.",
+            "redirect": "/watch/s1/e17",
+            "image": "https://res.cloudinary.com/sbirate/image/upload/v1649017179/THUMBNAILS/s1/17_e7t9as.jpg",
+            "video": "https://res.cloudinary.com/sbirate/video/upload/v1648966607/SB%20SEASON%201/17_oahm9f.mp4"
+        },
+        "e18": {
+            "title": "18. Texas/Walking Small",
+            "airdate": "March 21 2000",
+            "length": "24min",
+            "description": "Sandy is homesick and plans to return home./The evil Plankton is up to no good once again when he tries to manipulate SpongeBob.",
+            "redirect": "/watch/s1/e18",
+            "image": "/static/s1/18.jpg",
+            "video": "https://res.cloudinary.com/sbirate/video/upload/v1648966760/SB%20SEASON%201/18_gaggcy.mp4"
+        },
+        "e19": {
+            "title": "19. Fools In April/Neptune's Spatula",
+            "airdate": "March 31 2000",
+            "length": "24min",
+            "description": "Fools In April/Neptune's Spatula: Squidward decides to teach SpongeBob a REAL April Fool's Day prank, but finds out being mean doesn't necessarily mean funny. SpongeBob seizes the mythical spatula of King Neptune.",
+            "redirect": "/watch/s1/e19",
+            "image": "https://res.cloudinary.com/sbirate/image/upload/v1649017180/THUMBNAILS/s1/19_i8ps0z.jpg",
+            "video": "https://res.cloudinary.com/sbirate/video/upload/v1648966738/SB%20SEASON%201/19_zrc0gp.mp4"
+        },
+        "e20": {
+            "title": "20. Hooky/Mermaidman and Barnacleboy II",
+            "airdate": "April 8 2000",
+            "length": "25min",
+            "description": "Mr. Krabs warns SpongeBob and Patrick to beware the dangerous fishing hooks!/SpongeBob joins Mermaid Man and Barnacle Boy on patrol.",
+            "redirect": "/watch/s1/e20",
+            "image": "https://res.cloudinary.com/sbirate/image/upload/v1649017180/THUMBNAILS/s1/20_l30qb6.jpg",
+            "video": "https://res.cloudinary.com/sbirate/video/upload/v1648966763/SB%20SEASON%201/20_h3qgoy.mp4"
+        }
+    },
+    "s2": {
+        "e01": {
+            "title": "1. Your Shoes Untied/Squid's Day Off",
+            "airdate": "October 12 2000",
+            "length": "25min",
+            "description": "Patrick gets a new pair of shoes, but doesn't know how to tie his laces./Mr. Krabs takes the day off from the Krusty Krab and puts Squiward in charge.",
+            "redirect": "/watch/s2/e01",
+            "image": "https://res.cloudinary.com/sbirate/image/upload/v1649017180/THUMBNAILS/s2/01_ntoifq.jpg",
+            "video": "https://res.cloudinary.com/sbirate/video/upload/v1648972716/SB%20SEASON%202/01_nrkikg.mp4"
+        },
+        "e02": {
+            "title": "2. Something Smells/Bossy Boots",
+            "airdate": "October 19 2000",
+            "length": "25min",
+            "description": "SpongeBob eats sea onion ice cream and his breath stinks. When people avoid him, Pat convinces him that it's because he's ugly./ When Mr. Krabs gives his daughter Pearl a job at the Krusty krab, she starts to make some changes.",
+            "redirect": "/watch/s2/e02",
+            "image": "https://res.cloudinary.com/sbirate/image/upload/v1649017180/THUMBNAILS/s2/02_cl5cye.jpg",
+            "video": "https://res.cloudinary.com/sbirate/video/upload/v1648972660/SB%20SEASON%202/02_xl26ia.mp4"
+        },
+        "e03": {
+            "title": "3. Big Pink Loser/Bubble Buddy",
+            "airdate": "October 27 2000",
+            "length": "24min",
+            "description": "Patrick goes overboard when he takes Spongebob on as a role model./Spongebob blows a bubble to keep him company when Patrick goes out of town.",
+            "redirect": "/watch/s2/e03",
+            "image": "https://res.cloudinary.com/sbirate/image/upload/v1649017180/THUMBNAILS/s2/03_eazdlv.jpg",
+            "video": "https://res.cloudinary.com/sbirate/video/upload/v1648972668/SB%20SEASON%202/03_mk2v1i.mp4"
+        },
+        "e04": {
+            "title": "4. Dying for Pie/Imitation Krabs",
+            "airdate": "November 4 2000",
+            "length": "25min",
+            "description": "Squidward accidentally lets SpongeBob eat an exploding pie./Plankton schemes to steal the Krabby patty by disguising himself as Mr. Krabs.",
+            "redirect": "/watch/s2/e04",
+            "image": "https://res.cloudinary.com/sbirate/image/upload/v1649017180/THUMBNAILS/s2/04_pnrfbz.jpg",
+            "video": "https://res.cloudinary.com/sbirate/video/upload/v1648972646/SB%20SEASON%202/04_ckurss.mp4"
+        },
+        "e05": {
+            "title": "5. Wormy/Patty Hype",
+            "airdate": "November 11 2000",
+            "length": "24min",
+            "description": "Spongebob and Patrick are convinced a butterfly ate Sandy's pet caterpillar./Spongebob's colored patty sales idea becomes a huge success and Mr. Krabs wants a piece of the pie.",
+            "redirect": "/watch/s2/e05",
+            "image": "https://res.cloudinary.com/sbirate/image/upload/v1649017180/THUMBNAILS/s2/05_hzke6l.jpg",
+            "video": "https://res.cloudinary.com/sbirate/video/upload/v1648972725/SB%20SEASON%202/05_mtr450.mp4"
+        },
+        "e06": {
+            "title": "6. Grandma's Kisses/Squidville",
+            "airdate": "April 27 2001",
+            "length": "25min",
+            "description": "SpongeBob's friends tease him after Grammaw gives him a kiss./Sick and tired of living between Spongebob and Patrick, Squidward decides to move out of Bikini Bottom.",
+            "redirect": "/watch/s2/e06",
+            "image": "https://res.cloudinary.com/sbirate/image/upload/v1649017180/THUMBNAILS/s2/06_iehu1j.jpg",
+            "video": "https://res.cloudinary.com/sbirate/video/upload/v1648972690/SB%20SEASON%202/06_o2vuze.mp4"
+        },
+        "e07": {
+            "title": "7. Pre-Hibernation Week/Life of Crime",
+            "airdate": "May 4 2001",
+            "length": "24min",
+            "description": "Sandy is going into hibernation in a week and she wants to pack in a million activities./SpongeBob and Patrick end up popping Mr. Krabs balloon and fear the consequences.",
+            "redirect": "/watch/s2/e07",
+            "image": "https://res.cloudinary.com/sbirate/image/upload/v1649017180/THUMBNAILS/s2/07_fw0x6l.jpg",
+            "video": "https://res.cloudinary.com/sbirate/video/upload/v1648972725/SB%20SEASON%202/07_jxd1ez.mp4"
+        },
+        "e08": {
+            "title": "8. The SpongeBob Christmas Special",
+            "airdate": "May 5 2001",
+            "length": "24min",
+            "description": "Nobody in Bikini Bottom has heard of Christmas or Santa Claus. SpongeBob wants to bring Christmas to Bikini Bottom this year and his enthusiasm is infectious.",
+            "redirect": "/watch/s2/e08",
+            "image": "https://res.cloudinary.com/sbirate/image/upload/v1649017180/THUMBNAILS/s2/08_qtdp5z.jpg",
+            "video": "https://res.cloudinary.com/sbirate/video/upload/v1648972677/SB%20SEASON%202/08_zlj1lt.mp4"
+        },
+        "e09": {
+            "title": "9. Survival of the Idiots/Dumped",
+            "airdate": "May 7 2001",
+            "length": "25min",
+            "description": "SpongeBob and Pat are fascinated by the snow they see inside the Treedome and want to play in it, but sandy is hibernating for the winter./ SpongeBob grows more and more jealous as Gary spends more time with Patrick.",
+            "redirect": "/watch/s2/e09",
+            "image": "https://res.cloudinary.com/sbirate/image/upload/v1649017180/THUMBNAILS/s2/09_krj1x9.jpg",
+            "video": "https://res.cloudinary.com/sbirate/video/upload/v1648972734/SB%20SEASON%202/09_yhp9pw.mp4"
+        },
+        "e10": {
+            "title": "10. No Free Rides/I'm Your Biggest Fanatic",
+            "airdate": "May 8 2001",
+            "length": "24min",
+            "description": "SpongeBob attempts and fails his driving test again, but a fed up Ms. Puff wants him out of her classroom so she makes up extra credit for him so he can pass the test./SpongeBob tries to join an exclusive jellyfishing club.",
+            "redirect": "/watch/s2/e10",
+            "image": "https://res.cloudinary.com/sbirate/image/upload/v1649017180/THUMBNAILS/s2/10_yngjp8.jpg",
+            "video": "https://res.cloudinary.com/sbirate/video/upload/v1648972702/SB%20SEASON%202/10_uq6w1j.mp4"
+        },
+        "e11": {
+            "title": "11. Mermaid Man and Barnacle Boy III/Squirrel Jokes",
+            "airdate": "May 10 2001",
+            "length": "25min",
+            "description": "When Mermaid Man and Barnacle Boy go away for the weekend, they ask SpongeBob and Pat to house sit for them./SpongeBob becomes an overnight stand up comedy sensation when he starts telling derogatory jokes about squirrels.",
+            "redirect": "/watch/s2/e11",
+            "image": "https://res.cloudinary.com/sbirate/image/upload/v1649017180/THUMBNAILS/s2/11_wkdved.jpg",
+            "video": "https://res.cloudinary.com/sbirate/video/upload/v1648972673/SB%20SEASON%202/11_aq0kqs.mp4"
+        },
+        "e12": {
+            "title": "12. Pressure / The Smoking Peanut",
+            "airdate": "May 11 2001",
+            "length": "24min",
+            "description": "Sandy and SpongeBob get into a fierce competition doing extreme underwater sports./ SpongeBob and Pat visit the zoo and SpongeBob innocently tosses a peanut at an oyster in order to rouse it. The oyster then goes crazy.",
+            "redirect": "/watch/s2/e12",
+            "image": "https://res.cloudinary.com/sbirate/image/upload/v1649017180/THUMBNAILS/s2/12_ae1zpx.jpg",
+            "video": "https://res.cloudinary.com/sbirate/video/upload/v1648972675/SB%20SEASON%202/12_unfpnk.mp4"
+        },
+        "e13": {
+            "title": "13. Shanghaied/Gary Takes a Bath",
+            "airdate": "May 18 2001",
+            "length": "24min",
+            "description": "SpongeBob and Patrick work as crew members for The Flying Dutchman./ It's time to give Gary a bath, but he doesn't want to take one.",
+            "redirect": "/watch/s2/e13",
+            "image": "https://res.cloudinary.com/sbirate/image/upload/v1649017180/THUMBNAILS/s2/13_diuopl.jpg",
+            "video": "https://res.cloudinary.com/sbirate/video/upload/v1648972740/SB%20SEASON%202/13_gyrvla.mp4"
+        },
+        "e14": {
+            "title": "14. Welcome to the Chumbucket/Frankendoodle",
+            "airdate": "May 25 2001",
+            "length": "25min",
+            "description": "Mr. Krabs loses SpongeBob's fry cook contract in a bet with Plankton and SpongeBob is forced to go work at the Chum Bucket./SpongeBob and Pat discover a pencil that makes everything they draw come to life.",
+            "redirect": "/watch/s2/e14",
+            "image": "https://res.cloudinary.com/sbirate/image/upload/v1649017180/THUMBNAILS/s2/14_kvzgzp.jpg",
+            "video": "https://res.cloudinary.com/sbirate/video/upload/v1648972644/SB%20SEASON%202/14_b9oex3.mp4"
+        },
+        "e15": {
+            "title": "15. The Secret Box/Band Geeks",
+            "airdate": "September 6 2001",
+            "length": "25min",
+            "description": "Patrick has a box and won't show SpongeBob what's inside. SpongeBob's curiousity gets the best of him./Squidward's old rival brags to Squid about his famous marching band. Feeling outdone, Squid says he has a band too.",
+            "redirect": "/watch/s2/e15",
+            "image": "https://res.cloudinary.com/sbirate/image/upload/v1649017180/THUMBNAILS/s2/15_ovnffv.jpg",
+            "video": "https://res.cloudinary.com/sbirate/video/upload/v1648972632/SB%20SEASON%202/15_hvogoz.mp4"
+        },
+        "e16": {
+            "title": "16. Graveyard Shift/Krusty Love",
+            "airdate": "September 10 2001",
+            "length": "24min",
+            "description": "While working the graveyard shift, Squidward tells SpongeBob a scary tale./ Ms. Puff pays a visit to the Krusty Krab and Mr. Krabs is instantly smitten with her.",
+            "redirect": "/watch/s2/e16",
+            "image": "https://res.cloudinary.com/sbirate/image/upload/v1649017181/THUMBNAILS/s2/16_dfmjtk.jpg",
+            "video": "https://res.cloudinary.com/sbirate/video/upload/v1648972742/SB%20SEASON%202/16_r6w4ha.mp4"
+        },
+        "e17": {
+            "title": "17. Procrastination/I'm with Stupid",
+            "airdate": "September 15 2001",
+            "length": "24min",
+            "description": "SpongeBob must write an 800 word essay for boating school but gets distracted easily./ When Patrick's parents come over for Starfish Day, Patrick gets upset that they still think he isn't very smart.",
+            "redirect": "/watch/s2/e17",
+            "image": "https://res.cloudinary.com/sbirate/image/upload/v1649017181/THUMBNAILS/s2/17_mmtz53.jpg",
+            "video": "https://res.cloudinary.com/sbirate/video/upload/v1648972725/SB%20SEASON%202/17_eiruij.mp4"
+        },
+        "e18": {
+            "title": "18. Sailor Mouth/Artist Unknown",
+            "airdate": "September 20 2001",
+            "length": "25min",
+            "description": "SpongeBob reads a \"bad\" word off a dumpster behind the Krusty Krab and he doesn't know what it means./ When Spongebob enrolls in Squidward's community art class, arrogant Squidward attempts to teach him strictly by the book.",
+            "redirect": "/watch/s2/e18",
+            "image": "https://res.cloudinary.com/sbirate/image/upload/v1649017181/THUMBNAILS/s2/18_cyfzyb.jpg",
+            "video": "https://res.cloudinary.com/sbirate/video/upload/v1648972643/SB%20SEASON%202/18_tgnmsw.mp4"
+        },
+        "e19": {
+            "title": "19. Jellyfish Hunters/The Fry Cook Games",
+            "airdate": "September 27 2001",
+            "length": "24min",
+            "description": "Mr. Krabs discovers that customers love SpongeBob's special jellyfish jelly Krabby Patty. He begins to take advantage of the jellyfish./Mr. Krabs enters SpongeBob in the Fry Cook Games where he competes against Patrick.",
+            "redirect": "/watch/s2/e19",
+            "image": "https://res.cloudinary.com/sbirate/image/upload/v1649017181/THUMBNAILS/s2/19_v9ft0a.jpg",
+            "video": "https://res.cloudinary.com/sbirate/video/upload/v1648972744/SB%20SEASON%202/19_hh0ced.mp4"
+        },
+        "e20": {
+            "title": "20. Sandy, SpongeBob and the Worm/Squid on Strike",
+            "airdate": "October 1 2001",
+            "length": "24min",
+            "description": "Believing Mr. Krab is taking advantage, Squidward convinces Spongebob to join with him and threaten Mr. Krabs with a strike./A large worm is terrorizing Bikini Bottom and SpongeBob is terrified of it.",
+            "redirect": "/watch/s2/e20",
+            "image": "https://res.cloudinary.com/sbirate/image/upload/v1649017181/THUMBNAILS/s2/20_wqa3v5.jpg",
+            "video": "https://res.cloudinary.com/sbirate/video/upload/v1648972740/SB%20SEASON%202/20_z2ndpb.mp4"
+        }
+    },
+    "s3": {
+        "e01": {
+            "title": "1. The Algae's Always Greener/Sponge Guard on Duty",
+            "airdate": "October 2 2001",
+            "length": "24min",
+            "description": "Plankton has a new invention that allows him to switch lives with Mr. Krabs./When Larry the Lobster is short one man for lifeguard duty, SpongeBob Volunteers.",
+            "redirect": "/watch/s3/e01",
+            "image": "/static/s3/01.jpg",
+            "video": "https://res.cloudinary.com/sbirate/video/upload/v1649015116/SB%20SEASON%203/01_tpqgol.mp4"
+        },
+        "e02": {
+            "title": "2. Club Spongebob/My Pretty Seahorse",
+            "airdate": "October 3 2001",
+            "length": "24min",
+            "description": "Spongebob and Patrick build a small clubhouse in a tree - when Squidward wants to join their club, he literally doesn't \"fit\" in./SpongeBob finds a stray sea horse and adopts it.",
+            "redirect": "/watch/s3/e02",
+            "image": "/static/s3/02.jpg",
+            "video": "https://res.cloudinary.com/sbirate/video/upload/v1649015084/SB%20SEASON%203/02_qb7wpc.mp4"
+        },
+        "e03": {
+            "title": "3. The Bully/Just One Bite",
+            "airdate": "October 4 2001",
+            "length": "23min",
+            "description": "The new bully in school, Flats, threatens to beat SpongeBob up after school./SpongeBob becomes obsessed with the fact that Squidward has never actually tried a Krabby Patty.",
+            "redirect": "/watch/s3/e03",
+            "image": "/static/s3/03.jpg",
+            "video": "https://res.cloudinary.com/sbirate/video/upload/v1649015048/SB%20SEASON%203/03_yvbnuw.mp4"
+        },
+        "e04": {
+            "title": "4. The Nasty Patty/The Idiot Box",
+            "airdate": "January 13 2002",
+            "length": "25min",
+            "description": "Mr. Krabs has to whip the Krusty Krab into shape in order to pass health inspection./When Spongebob and Patrick get a large screen TV, they throw out the TV and keep the box.",
+            "redirect": "/watch/s3/e04",
+            "image": "/static/s3/04.jpg",
+            "video": "https://res.cloudinary.com/sbirate/video/upload/v1649015115/SB%20SEASON%203/04_q6bols.mp4"
+        },
+        "e05": {
+            "title": "5. Mermaid Man And Barnacle Boy IV/Doing Time",
+            "airdate": "January 20 2002",
+            "length": "24min",
+            "description": "Spongebob gets a hold of Mermaid Man's utility belt and accidentally shrinks all of Bikini Bottom./Ms. Puff takes the blame for an accident Spongebob caused and goes to prison.",
+            "redirect": "/watch/s3/e05",
+            "image": "/static/s3/05.jpg",
+            "video": "https://res.cloudinary.com/sbirate/video/upload/v1649015078/SB%20SEASON%203/05_vmoksw.mp4"
+        },
+        "e06": {
+            "title": "6. The Snowball Effect/One Krab's Trash",
+            "airdate": "February 21 2002",
+            "length": "24min",
+            "description": "It's snowing! Spongebob and Patrick try to show Squidward how much fun it can be to play in the snow./Mr. Krabs has a garage sale and sells Spongebob the most valuable of items.",
+            "redirect": "/watch/s3/e06",
+            "image": "/static/s3/06.jpg",
+            "video": "https://res.cloudinary.com/sbirate/video/upload/v1649015096/SB%20SEASON%203/06_psd4sy.mp4"
+        },
+        "e07": {
+            "title": "7. As Seen On TV/Can You Spare A Dime",
+            "airdate": "March 7 2002",
+            "length": "24min",
+            "description": "Spongebob makes a one second cameo in a Krusty Krabs commercial./Fed up with Mr. Krabs insults, Squidward quits his job - but has a hard time finding a new job.",
+            "redirect": "/watch/s3/e07",
+            "image": "/static/s3/07.jpg",
+            "video": "https://res.cloudinary.com/sbirate/video/upload/v1649015060/SB%20SEASON%203/07_h1p3eg.mp4"
+        },
+        "e08": {
+            "title": "8. No Weenies Allowed/Squilliam Returns",
+            "airdate": "March 14 2002",
+            "length": "25min",
+            "description": "Spongebob has to prove that he's tough so he can get into the Salty Spitoon./Squidward's arch nemesis, Squilliam, returns to harass Squidward on his failed life since high school.",
+            "redirect": "/watch/s3/e08",
+            "image": "/static/s3/08.jpg",
+            "video": "https://res.cloudinary.com/sbirate/video/upload/v1649015065/SB%20SEASON%203/08_tpyoxg.mp4"
+        },
+        "e09": {
+            "title": "9. Krab Borg/Rock A Bye Bi-Valve",
+            "airdate": "March 28 2002",
+            "length": "25min",
+            "description": "After watching a movie where robots take over the world, Spongebob thinks Mr. Krabs is a robot ./Spongebob and Patrick find a baby clam and decide to raise it as their own",
+            "redirect": "/watch/s3/e09",
+            "image": "/static/s3/09.jpg",
+            "video": "https://res.cloudinary.com/sbirate/video/upload/v1649015054/SB%20SEASON%203/09_vgbsbp.mp4"
+        },
+        "e10": {
+            "title": "10. Wet Painters/Krusty Crab Training Video",
+            "airdate": "May 9 2002",
+            "length": "24min",
+            "description": "Spongebob and Patrick must paint Mr. Krabs living room without getting a drop of paint on anything but the walls./Learn how to become a Krusty Krab employee in this episode.",
+            "redirect": "/watch/s3/e10",
+            "image": "/static/s3/10.jpg",
+            "video": "https://res.cloudinary.com/sbirate/video/upload/v1649015032/SB%20SEASON%203/10_xynpap.mp4"
+        },
+        "e11": {
+            "title": "11. Spongebob's Houseparty-Part 1/Spongebob's Houseparty-Part 2",
+            "airdate": "May 16 2002",
+            "length": "24min",
+            "description": "Spongebob decides to throw a big party after discovering a \"how to throw a party\" kit in the grocery store.",
+            "redirect": "/watch/s3/e11",
+            "image": "/static/s3/11.jpg",
+            "video": "https://res.cloudinary.com/sbirate/video/upload/v1649015117/SB%20SEASON%203/11_anvcah.mp4"
+        },
+        "e12": {
+            "title": "12. Chocolate With Nuts/Mermaid And Barnacle Boy V",
+            "airdate": "May 31 2002",
+            "length": "25min",
+            "description": "To make some extra cash, Spongebob and Patrick decide to sell chocolate door to door./Barnacle Boy wants to be called \"Barnacle Man\" and rebels when everyone rejects his request.",
+            "redirect": "/watch/s3/e12",
+            "image": "/static/s3/12.jpg",
+            "video": "https://res.cloudinary.com/sbirate/video/upload/v1649015058/SB%20SEASON%203/12_wfmtzj.mp4"
+        },
+        "e13": {
+            "title": "13. New Student Starfish/Clams",
+            "airdate": "September 19 2002",
+            "length": "25min",
+            "description": "Patrick joins Ms. Puff's class but begins to get Spongebob in a lot of trouble causing him to lose gold stars./Mr. Krabs takes Spongebob and Squidward on a clam fishing trip.",
+            "redirect": "/watch/s3/e13",
+            "image": "/static/s3/13.jpg",
+            "video": "https://res.cloudinary.com/sbirate/video/upload/v1649015037/SB%20SEASON%203/13_n0w23m.mp4"
+        },
+        "e14": {
+            "title": "14. Spongebob B.C.",
+            "airdate": "September 25 2002",
+            "length": "23min",
+            "description": "It is prehistoric Bikini Bottom, and we spend a day in the life of SpongeGar, Patar, and Squog. (Spongebob, Patrick, and Squidward's prehistoric alter-egos.)",
+            "redirect": "/watch/s3/e14",
+            "image": "/static/s3/14.jpg",
+            "video": "https://res.cloudinary.com/sbirate/video/upload/v1649015113/SB%20SEASON%203/14_zcpkfz.mp4"
+        },
+        "e15": {
+            "title": "15. The Great Snail Race/Mid-Life Crustacean",
+            "airdate": "January 23 2003",
+            "length": "24min",
+            "description": "Squidward gets a pure-bread snail, Snelle, and decides to race her in the snail races./Mr. Krabs feels old so he asks if he could join Spongebob and Patrick on a wild night out.",
+            "redirect": "/watch/s3/e15",
+            "image": "/static/s3/15.jpg",
+            "video": "https://res.cloudinary.com/sbirate/video/upload/v1649015065/SB%20SEASON%203/15_uvahic.mp4"
+        },
+        "e16": {
+            "title": "16. Born Again Krabs/I Had An Accident",
+            "airdate": "October 3 2003",
+            "length": "25min",
+            "description": "Mr. Krabs gets ill after eating an old Krabby Patty that he refused to throw away./SpongeBob has an accident while sand sledding! Afraid for his safety, he won't leave his house.",
+            "redirect": "/watch/s3/e16",
+            "image": "/static/s3/16.jpg",
+            "video": "https://res.cloudinary.com/sbirate/video/upload/v1649015075/SB%20SEASON%203/16_z2itwu.mp4"
+        },
+        "e17": {
+            "title": "17. Krabby Land/The Camping Episode",
+            "airdate": "October 10 2003",
+            "length": "24min",
+            "description": "Mr. Krabs aims to squeeze every penny out of kids on summer break by building a playground in the Krusty Krab./SpongeBob and Patrick lure Squidward to their backyard campout.",
+            "redirect": "/watch/s3/e17",
+            "image": "/static/s3/17.jpg",
+            "video": "https://res.cloudinary.com/sbirate/video/upload/v1649015030/SB%20SEASON%203/17_kge10z.mp4"
+        },
+        "e18": {
+            "title": "18. Missing Identity/Plankton's Army",
+            "airdate": "January 18 2004",
+            "length": "25min",
+            "description": "Spongebob desperately searches for his missing name tag./Plankton enlists his relatives to help him steal the Krabby Patty Secret Formula.",
+            "redirect": "/watch/s3/e18",
+            "image": "/static/s3/18.jpg",
+            "video": "https://res.cloudinary.com/sbirate/video/upload/v1649015055/SB%20SEASON%203/18_oumb6f.mp4"
+        },
+        "e19": {
+            "title": "19. The Sponge Who Could Fly/Lost Episode Patchy",
+            "airdate": "January 25 2004",
+            "length": "24min",
+            "description": "SpongeBob is jellyfishing when he wistfully realizes that he wants to fly./Patchy the Pirate is set to present a never before seen episode of Spongebob with one problem - no tape.",
+            "redirect": "/watch/s3/e19",
+            "image": "/static/s3/19.jpg",
+            "video": "https://res.cloudinary.com/sbirate/video/upload/v1649015118/SB%20SEASON%203/19_zwp5gg.mp4"
+        },
+        "e20": {
+            "title": "20. Spongebob Meets The Strangler/Pranks A Lot (AKA Naked Pants)",
+            "airdate": "October 10 2004",
+            "length": "25min",
+            "description": "SpongeBob catches someone littering and turns him in - but it's the Tattletale Strangler!/SpongeBob and Patrick invest in some magic \"invisible spray\" at the local prank shop.",
+            "redirect": "/watch/s3/e20",
+            "image": "/static/s3/20.jpg",
+            "video": "https://res.cloudinary.com/sbirate/video/upload/v1649015108/SB%20SEASON%203/20_udbplv.mp4"
+        }
+    },
+    "s4": {
+        "e01": {
+            "title": "1. Fear Of A Krabby Patty/Shell Of A Man",
+            "airdate": "May 5 2005",
+            "length": "24min",
+            "description": "With the Krusty Krab's new \"open 24 hours\" policy, the employees must work 'round the clock./Mr. Krabs loses his shell right before a big reunion with his old buddies.",
+            "redirect": "/watch/s4/e01",
+            "image": "https://res.cloudinary.com/sbirate/image/upload/v1649017182/THUMBNAILS/s4/01_xiemht.jpg",
+            "video": "https://res.cloudinary.com/sbirate/video/upload/v1649027254/SB%20SEASON%204/01_jw3o2k.mp4"
+        },
+        "e02": {
+            "title": "2. The Lost Mattress/Krabs VS Plankton",
+            "airdate": "May 12 2005",
+            "length": "23min",
+            "description": "Plankton slips and falls on some water at the Krusty Krab and sues Mr. Krabs for not posting a wet floor sign./Spongebob buys Mr. Krabs a new mattress to help him sleep better.",
+            "redirect": "/watch/s4/e02",
+            "image": "https://res.cloudinary.com/sbirate/image/upload/v1649017182/THUMBNAILS/s4/02_g4mhoh.jpg",
+            "video": "https://res.cloudinary.com/sbirate/video/upload/v1649027270/SB%20SEASON%204/02_ghikg9.mp4"
+        },
+        "e03": {
+            "title": "3. Have You Seen This Snail?",
+            "airdate": "May 15 2005",
+            "length": "24min",
+            "description": "While trying to beat a world record, SpongeBob forgets to feed Gary - for several weeks. So Gary runs away to downtown Bikini Bottom where he is taken in by a kind old woman.",
+            "redirect": "/watch/s4/e03",
+            "image": "https://res.cloudinary.com/sbirate/image/upload/v1649017182/THUMBNAILS/s4/03_bk8ux2.jpg",
+            "video": "https://res.cloudinary.com/sbirate/video/upload/v1649027270/SB%20SEASON%204/03_vvwigj.mp4"
+        },
+        "e04": {
+            "title": "4. Good Neighbor/Skill Crane",
+            "airdate": "May 19 2005",
+            "length": "24min",
+            "description": "Squidward's lazy Sunday is constantly interrupted by Spongebob and Patrick's Good Neighbor Club activities./Squidward becomes obsessed with winning a prize from the Skill Crane.",
+            "redirect": "/watch/s4/e04",
+            "image": "https://res.cloudinary.com/sbirate/image/upload/v1649017182/THUMBNAILS/s4/04_g349xx.jpg",
+            "video": "https://res.cloudinary.com/sbirate/video/upload/v1649027306/SB%20SEASON%204/04_wmw7lp.mp4"
+        },
+        "e05": {
+            "title": "5. Selling Out/Funny Pants",
+            "airdate": "September 22 2005",
+            "length": "24min",
+            "description": "Mr. Krabs sells the Krusty Krab to a conglomerate and explores the joys of retirement./Squidward tricks his neighbor into believing that Spongebob has a laugh-related illness.",
+            "redirect": "/watch/s4/e05",
+            "image": "https://res.cloudinary.com/sbirate/image/upload/v1649017182/THUMBNAILS/s4/05_colssw.jpg",
+            "video": "https://res.cloudinary.com/sbirate/video/upload/v1649027263/SB%20SEASON%204/05_c6nlaj.mp4"
+        },
+        "e06": {
+            "title": "6. Dunces And Dragons",
+            "airdate": "September 29 2005",
+            "length": "24min",
+            "description": "After a freak jousting accident at a Medieval Times restaurant, SpongeBob and Patrick are transported to a medieval version of Bikini Bottom.",
+            "redirect": "/watch/s4/e06",
+            "image": "https://res.cloudinary.com/sbirate/image/upload/v1649017183/THUMBNAILS/s4/06_jx2yco.jpg",
+            "video": "https://res.cloudinary.com/sbirate/video/upload/v1649027312/SB%20SEASON%204/06_sxpxe8.mp4"
+        },
+        "e07": {
+            "title": "7. Enemy In-Law/Mermaidman and Barnacleboy VI - THE MOTION PICTURE",
+            "airdate": "October 6 2005",
+            "length": "24min",
+            "description": "SpongeBob sets out to make his own Mermaid Man movie using the original actors, fresh from the retirement home./Mr. Krabs is horrified to learn Plankton is dating his mother!",
+            "redirect": "/watch/s4/e07",
+            "image": "https://res.cloudinary.com/sbirate/image/upload/v1649017183/THUMBNAILS/s4/07_z7rdom.jpg",
+            "video": "https://res.cloudinary.com/sbirate/video/upload/v1649027300/SB%20SEASON%204/07_inkdjn.mp4"
+        },
+        "e08": {
+            "title": "8. Patrick Smartpants/Squidbob Tenaclepants",
+            "airdate": "October 20 2005",
+            "length": "23min",
+            "description": "Patrick gets hit in the head and comes to with superior intellect!/Sandy accidentally melds Spongebob and Squidward into one body when her teleportation device malfunctions.",
+            "redirect": "/watch/s4/e08",
+            "image": "https://res.cloudinary.com/sbirate/image/upload/v1649017183/THUMBNAILS/s4/08_xkfrv1.jpg",
+            "video": "https://res.cloudinary.com/sbirate/video/upload/v1649027303/SB%20SEASON%204/08_ndevzk.mp4"
+        },
+        "e09": {
+            "title": "9. Krusty Towers/Mrs. Puff, You're Fired",
+            "airdate": "March 31 2006",
+            "length": "23min",
+            "description": "In another one of his money making schemes, Mr. Krabs turns the Krusty Krab into an upscale hotel./Mrs. Puff gets fired when the higher ups learn of Spongebob's repeated failure.",
+            "redirect": "/watch/s4/e09",
+            "image": "https://res.cloudinary.com/sbirate/image/upload/v1649017183/THUMBNAILS/s4/09_wysqge.jpg",
+            "video": "https://res.cloudinary.com/sbirate/video/upload/v1649027282/SB%20SEASON%204/09_qprbug.mp4"
+        },
+        "e10": {
+            "title": "10. Ghost Host/Chimps Ahoy",
+            "airdate": "May 4 2006",
+            "length": "23min",
+            "description": "The Flying Dutchman crashes at SpongeBob's house where he constantly scares, startles and surprises SpongeBob./Sandy is worried her inventions won't satisfy her chimp beneficiaries.",
+            "redirect": "/watch/s4/e10",
+            "image": "https://res.cloudinary.com/sbirate/image/upload/v1649017183/THUMBNAILS/s4/10_ty6hpe.jpg",
+            "video": "https://res.cloudinary.com/sbirate/video/upload/v1649027311/SB%20SEASON%204/10_ymbqgl.mp4"
+        },
+        "e11": {
+            "title": "11. Whale Of A Birthday/Karate Island",
+            "airdate": "May 11 2006",
+            "length": "23min",
+            "description": "Mr. Krabs tries to throw his daughter, Pearl, the best birthday ever./Spongebob competes on Karate Island for the title \"King of Karate.\"",
+            "redirect": "/watch/s4/e11",
+            "image": "https://res.cloudinary.com/sbirate/image/upload/v1649017183/THUMBNAILS/s4/11_juzynz.jpg",
+            "video": "https://res.cloudinary.com/sbirate/video/upload/v1649027314/SB%20SEASON%204/11_nfer0k.mp4"
+        },
+        "e12": {
+            "title": "12. All That Glitters/Wishing You Well",
+            "airdate": "June 1 2006",
+            "length": "23min",
+            "description": "Spongebob's spatula breaks mid-patty flip to be replaced by \"Le Spatula.\"/Mr. Krabs sends Spongebob down a wishing well to collect the coins dropped in by people making wishes.",
+            "redirect": "/watch/s4/e12",
+            "image": "https://res.cloudinary.com/sbirate/image/upload/v1649017183/THUMBNAILS/s4/12_y055zt.jpg",
+            "video": "https://res.cloudinary.com/sbirate/video/upload/v1649027300/SB%20SEASON%204/12_fvd8qy.mp4"
+        },
+        "e13": {
+            "title": "13. The New Leaf/Once Bitten",
+            "airdate": "September 29 2006",
+            "length": "23min",
+            "description": "Plankton has decided to throw in the towel and start a new business selling trinkets and souvenir gifts./Gary starts biting everyone in town, starting with Squidward.",
+            "redirect": "/watch/s4/e13",
+            "image": "https://res.cloudinary.com/sbirate/image/upload/v1649017183/THUMBNAILS/s4/13_w0ab06.jpg",
+            "video": "https://res.cloudinary.com/sbirate/video/upload/v1649027290/SB%20SEASON%204/13_nsftmv.mp4"
+        },
+        "e14": {
+            "title": "14. Bummer Vacation/Wigstuck",
+            "airdate": "October 15 2006",
+            "length": "23min",
+            "description": "Spongebob has never had a vacation. To save his job, Mr.Krabs gives him the day off! /Spongebob finds an old powdered wig in the trash and wears it thinking it's cool.",
+            "redirect": "/watch/s4/e14",
+            "image": "https://res.cloudinary.com/sbirate/image/upload/v1649017183/THUMBNAILS/s4/14_fimelx.jpg",
+            "video": "https://res.cloudinary.com/sbirate/video/upload/v1649027293/SB%20SEASON%204/14_dknu3t.mp4"
+        },
+        "e15": {
+            "title": "15. Squidtastic Voyage/That's No Lady",
+            "airdate": "November 30 2006",
+            "length": "23min",
+            "description": "When Squidward swallows his clarinet reed Sandy offers to retrieve the piece./A misunderstanding over an advertisement causes Patrick to think he must \"get out of town.\"",
+            "redirect": "/watch/s4/e15",
+            "image": "https://res.cloudinary.com/sbirate/image/upload/v1649017183/THUMBNAILS/s4/15_ptdtvj.jpg",
+            "video": "https://res.cloudinary.com/sbirate/video/upload/v1649027273/SB%20SEASON%204/15_wfonti.mp4"
+        },
+        "e16": {
+            "title": "16. The Thing/Hocus Pocus",
+            "airdate": "January 14 2007",
+            "length": "23min",
+            "description": "After a bike accident, Squidward is coated in so much mud that the residents of Bikini Bottom think he is a monster./ SpongeBob tries to impress Squidward with his new magic kit.",
+            "redirect": "/watch/s4/e16",
+            "image": "https://res.cloudinary.com/sbirate/image/upload/v1649017183/THUMBNAILS/s4/16_xhrxpr.jpg",
+            "video": "https://res.cloudinary.com/sbirate/video/upload/v1649027290/SB%20SEASON%204/16_suoal5.mp4"
+        },
+        "e17": {
+            "title": "17. Driven To Tears/Rule Of Dumb",
+            "airdate": "February 18 2007",
+            "length": "23min",
+            "description": "SpongeBob has failed his driving test - again. Pat is so outraged that he takes the test to prove that it is unfair, only he passes!/ Patrick discovers in a genealogy document that he is next in line to receive a kingly title!",
+            "redirect": "/watch/s4/e17",
+            "image": "https://res.cloudinary.com/sbirate/image/upload/v1649017183/THUMBNAILS/s4/17_lq9dxs.jpg",
+            "video": "https://res.cloudinary.com/sbirate/video/upload/v1649027304/SB%20SEASON%204/17_i5nskv.mp4"
+        },
+        "e18": {
+            "title": "18. Born To Be Wild/Best Frenemies",
+            "airdate": "March 30 2007",
+            "length": "23min",
+            "description": "SpongeBob hears that a ferocious biker gang is coming to town, so SpongeBob prepares to protect the town all by himself./A new Kelp Smoothy chain is opening up all over Bikini Bottom.",
+            "redirect": "/watch/s4/e18",
+            "image": "https://res.cloudinary.com/sbirate/image/upload/v1649017183/THUMBNAILS/s4/18_qym9ze.jpg",
+            "video": "https://res.cloudinary.com/sbirate/video/upload/v1649027277/SB%20SEASON%204/18_ucailv.mp4"
+        },
+        "e19": {
+            "title": "19. The Pink Purloiner/Squid Wood",
+            "airdate": "April 5 2007",
+            "length": "24min",
+            "description": "SpongeBob's favorite jellyfishing net is missing! And worst of all, Pat may have been the one that stole it./Rejected yet again by Squidward, SpongeBob decides that if he can't hang with the real Squid, he'll make his own.",
+            "redirect": "/watch/s4/e19",
+            "image": "https://res.cloudinary.com/sbirate/image/upload/v1649017183/THUMBNAILS/s4/19_fqpjqb.jpg",
+            "video": "https://res.cloudinary.com/sbirate/video/upload/v1649027277/SB%20SEASON%204/19_pqlte6.mp4"
+        },
+        "e20": {
+            "title": "20. The Best Day Ever/The Gift Of Gum",
+            "airdate": "April 10 2007",
+            "length": "24min",
+            "description": "SpongeBob is going to have the best day ever. But when work, karate, jellyfishing and Squidward's clarinet recital don't go as planned will his day be ruined?/ It's Best Friends Day so Patrick and SpongeBob trade presents.",
+            "redirect": "/watch/s4/e20",
+            "image": "https://res.cloudinary.com/sbirate/image/upload/v1649017183/THUMBNAILS/s4/20_rpyj9w.jpg",
+            "video": "https://res.cloudinary.com/sbirate/video/upload/v1649027283/SB%20SEASON%204/20_fm1tbb.mp4"
+        }
+    },
+    "s5": {
+        "e01": {
+            "title": "1. Friend or Foe",
+            "airdate": "April 12 2007",
+            "length": "23min",
+            "description": "Mr. Krabs and Plankton have been business rivals and bitter enemies for longer than anyone can remember. But one day, Mr. Krabs reveals that they were not always this way. There was a time when the two rivals were best friends.",
+            "redirect": "/watch/s5/e01",
+            "image": "/static/s5/01.jpg",
+            "video": "https://cdn17.spirate.repl.co/eps/01.mkv"
+        },
+        "e02": {
+            "title": "2. The Original Fry Cook/Night Light",
+            "airdate": "April 19 2007",
+            "length": "24min",
+            "description": "Mr. Krab's old fry cook pays a special visit to the Krusty Krab. SpongeBob is in awe of his predecessor, who has since become a world renowned chef./Tales of the boogeyman send SpongeBob into a panic.",
+            "redirect": "/watch/s5/e02",
+            "image": "/static/s5/02.jpg",
+            "video": "https://cdn17.spirate.repl.co/eps/02.mkv"
+        },
+        "e03": {
+            "title": "3. Rise and Shine & Waiting/Fungus Among Us",
+            "airdate": "April 26 2007",
+            "length": "24min",
+            "description": "SpongeBob discovers that his breakfast cereal has an offer for free toy. After gathering the necessary proofs of purchase, he waits for it to arrive./SpongeBob develops a case of Ick, the nasty itchy sea fungus.",
+            "redirect": "/watch/s5/e03",
+            "image": "/static/s5/03.jpg",
+            "video": "https://cdn17.spirate.repl.co/eps/03.mkv"
+        },
+        "e04": {
+            "title": "4. SpyBob/ Boat Smarts / Good Old Whatshisname",
+            "airdate": "July 22 2007",
+            "length": "24min",
+            "description": "Determined to uncover Plankton's next plot, Mr. Krabs sends SpongeBob and Patrick to spy on him./Watch an instructional video on boating techniques with Squidward and SpongeBob./Mr. Krabs holds a contest for his employees.",
+            "redirect": "/watch/s5/e04",
+            "image": "/static/s5/04.jpg",
+            "video": "https://cdn17.spirate.repl.co/eps/04.mkv"
+        },
+        "e05": {
+            "title": "5. New Digs/Krabs a la Mode",
+            "airdate": "July 24 2007",
+            "length": "24min",
+            "description": "After arriving one minute late for work, SpongeBob decides to move into the Krusty Krab so that he will never be late again./When Plankton secretly turns down the thermostat at the Krusty Krab the entire restaurant freezes over.",
+            "redirect": "/watch/s5/e05",
+            "image": "/static/s5/05.jpg",
+            "video": "https://cdn17.spirate.repl.co/eps/05.mkv"
+        },
+        "e06": {
+            "title": "6. Roller Cowards/Bucket Sweet Bucket",
+            "airdate": "July 24 2007",
+            "length": "23min",
+            "description": "The scariest roller coaster ever has just opened at Bikini Bottom's amusement park./Plankton tricks SpongeBob, Patrick and Squidward into fixing up the Chum Bucket.",
+            "redirect": "/watch/s5/e06",
+            "image": "/static/s5/06.jpg",
+            "video": "https://cdn17.spirate.repl.co/eps/06.mkv"
+        },
+        "e07": {
+            "title": "7. To Love A Patty/Breath of A Fresh Squidward",
+            "airdate": "July 25 2007",
+            "length": "23min",
+            "description": "SpongeBob has trouble saying goodbye to the most perfect Krabby Patty he has ever cooked up./After electrocuting himself, Squidward's personality gets completely scrambled. Now he is the most jovial Squid ever!",
+            "redirect": "/watch/s5/e07",
+            "image": "/static/s5/07.jpg",
+            "video": "https://cdn18.spirate.repl.co/eps/07.mkv"
+        },
+        "e08": {
+            "title": "8. Money Talks/Spongebob Vs The Patty Gadget/Slimy Dancing",
+            "airdate": "July 30 2007",
+            "length": "24min",
+            "description": "Mr. Krabs makes a wish that he could talk to money./SpongeBob competes against a patty-making machine./Squidward trains SpongeBob for the Bikini Bottom dance contest.",
+            "redirect": "/watch/s5/e08",
+            "image": "/static/s5/08.jpg",
+            "video": "https://cdn18.spirate.repl.co/eps/08.mkv"
+        },
+        "e09": {
+            "title": "9. The Krusty Sponge/Sing a Song of Patrick",
+            "airdate": "July 30 2007",
+            "length": "23min",
+            "description": "SpongeBob becomes the latest local obsession after a notable food critic gives him high ratings./SpongeBob helps Patrick get his song some air time at the local radio station.",
+            "redirect": "/watch/s5/e09",
+            "image": "/static/s5/09.jpg",
+            "video": "https://cdn18.spirate.repl.co/eps/09.mkv"
+        },
+        "e10": {
+            "title": "10. A Flea In Her Dome/Donut Of Shame/The Krusty Plate",
+            "airdate": "July 31 2007",
+            "length": "25min",
+            "description": "SpongeBob and Patrick try to help Sandy rid her Tree Dome of fleas./When Patrick accidentally takes SpongeBob's donut he is wracked with guilt over his crime./SpongeBob battles a persistent speck of food that is on a plate.",
+            "redirect": "/watch/s5/e10",
+            "image": "/static/s5/10.jpg",
+            "video": "https://cdn18.spirate.repl.co/eps/10.mkv"
+        },
+        "e11": {
+            "title": "11. Atlantis Squarepantis",
+            "airdate": "November 11 2007",
+            "length": "44min",
+            "description": "SpongeBob finds the missing half of an ancient medallion believed to be a relic from the lost city of Atlantis. When the two sides are reunited, suddenly a magical van appears that takes SpongeBob to the legendary city.",
+            "redirect": "/watch/s5/e11",
+            "image": "/static/s5/11.jpg",
+            "video": "https://swdfghjk.wsazdefrgtcvh.repl.co/eps/11.mkv"
+        },
+        "e12": {
+            "title": "12. Picture Day/ Pat No Pay/Blackjack",
+            "airdate": "August 1 2007",
+            "length": "23min",
+            "description": "It's Picture Day for the Boating School Year Book./When Patrick eats his weight in Krabby Patties without paying, Mr. Krabs puts him to work in the restaurant./SpongeBob's parents are missing.",
+            "redirect": "/watch/s5/e12",
+            "image": "/static/s5/12.jpg",
+            "video": "https://cdn18.spirate.repl.co/eps/12.mkv"
+        },
+        "e13": {
+            "title": "13. Blackened Sponge/Mermaid Man vs. Sponge",
+            "airdate": "August 2 2007",
+            "length": "24min",
+            "description": "SpongeBob accidentally punches himself in the face leaving behind a hideous black eye, but is too embarrassed to tell anyone the truth./Plankton has brainwashed Mermaid Man and Barnacle Boy!",
+            "redirect": "/watch/s5/e13",
+            "image": "/static/s5/13.jpg",
+            "video": "https://cdn19.spirate.repl.co/eps/13.mkv"
+        },
+        "e14": {
+            "title": "14. The Inmates of Summer/To Save a Squirrel",
+            "airdate": "August 2 2007",
+            "length": "24min",
+            "description": "Instead of getting on the ship headed for summer camp, SpongeBob and Patrick accidentally board a ship full of prisoners on their way to jail on Inferno Island./SpongeBob and Pat stow away on one of Sandy's wilderness adventure.",
+            "redirect": "/watch/s5/e14",
+            "image": "/static/s5/14.jpg",
+            "video": "https://cdn19.spirate.repl.co/eps/14.mkv"
+        },
+        "e15": {
+            "title": "15. The Pest of the West",
+            "airdate": "August 3 2007",
+            "length": "24min",
+            "description": "While researching his family tree SpongeBob discovers that he was related to the great Western hero, and famous chili-slinger, SpongeBuck.",
+            "redirect": "/watch/s5/e15",
+            "image": "/static/s5/15.jpg",
+            "video": "https://cdn19.spirate.repl.co/eps/15.mkv"
+        },
+        "e16": {
+            "title": "16. 20,000 Patties Under the Sea/The Battle of Bikini Bottom",
+            "airdate": "August 4 2007",
+            "length": "24min",
+            "description": "SpongeBob and Mr. Krabs turn an old submarine into a mobile Krusty Krab./When Patrick and SpongeBob discover they have clashing views on cleanliness, their disagreement blows up into an epic battle.",
+            "redirect": "/watch/s5/e16",
+            "image": "/static/s5/16.jpg",
+            "video": "https://cdn19.spirate.repl.co/eps/16.mkv"
+        },
+        "e17": {
+            "title": "17. What Ever Happened to SpongeBob",
+            "airdate": "August 4 2007",
+            "length": "24min",
+            "description": "When SpongeBob tries to spend some quality time with his friends, he just ends up being a nuisance to everyone instead. They all tell him to go away, so with a heavy heart, SpongeBob decides to do just that.",
+            "redirect": "/watch/s5/e17",
+            "image": "/static/s5/17.jpg",
+            "video": "https://cdn19.spirate.repl.co/eps/17.mkv"
+        },
+        "e18": {
+            "title": "18. The Two Faces of Squidward/Spongehenge",
+            "airdate": "August 11 2007",
+            "length": "23min",
+            "description": "Squidward is rushed to the hospital when SpongeBob accidentally slams the door on Squidward's face./A very windy day in Bikini Bottom is blowing air through SpongeBob's holes resulting in a chorus of pretty flute-like sounds.",
+            "redirect": "/watch/s5/e18",
+            "image": "/static/s5/18.jpg",
+            "video": "https://cdn19.spirate.repl.co/eps/18.mkv"
+        },
+        "e19": {
+            "title": "19. Banned in Bikini Bottom/Stanely S. Squarepants",
+            "airdate": "August 18 2007",
+            "length": "23min",
+            "description": "Miss Priss, who is against all things fun and delicious, has Krabby Patties banned from Bikini Bottom!/When Stanley, SpongeBob's klutzy cousin, comes to visit Bikini Bottom, he quickly turns SpongeBob's life upside down.",
+            "redirect": "/watch/s5/e19",
+            "image": "/static/s5/19.jpg",
+            "video": "https://cdn20-1.spirate.repl.co/eps/19.mkv"
+        },
+        "e20": {
+            "title": "20. Goo Goo Gas/Le Big Switch",
+            "airdate": "August 1 2007",
+            "length": "23min",
+            "description": "Plankton creates a gas that turns everyone at the Krusty Krab into babies./After being enrolled in a chef exchange program, SpongeBob switches places with a snooty French chef from a high-end restaurant.",
+            "redirect": "/watch/s5/e20",
+            "image": "/static/s5/20.jpg",
+            "video": "https://cdn20-1.spirate.repl.co/eps/20.mkv"
+        }
+    },
+    "s6": {
+        "e01": {
+            "title": "1. House Fancy/Krabby Road",
+            "airdate": "March 1 2008",
+            "length": "23min",
+            "description": "When Squidward sees Squilliam on a TV show about fancy homes, Squidward becomes infuriated and tries to outdo him./When SpongeBob mistakenly thinks that Plankton is starting a band, Plankton decides to use this to his advantage.",
+            "redirect": "/watch/s6/e01",
+            "image": "/static/s6/01.jpg",
+            "video": "https://cdn21.spirate.repl.co/eps/01.mkv"
+        },
+        "e02": {
+            "title": "2. A Life In A Day/Sun Bleached",
+            "airdate": "June 6 2008",
+            "length": "24min",
+            "description": "Everyone is in awe of Larry the Lobster's daredevil ways, especially SpongeBob and Patrick./Everybody who's anybody is going to a big party in Bikini Bottom, but you have to be a certain shade of tan to get in.",
+            "redirect": "/watch/s6/e02",
+            "image": "/static/s6/02.jpg",
+            "video": "https://cdn21.spirate.repl.co/eps/02.mkv"
+        },
+        "e03": {
+            "title": "3. Giant Squidward/No Nose Knows",
+            "airdate": "June 15 2008",
+            "length": "24min",
+            "description": "When Squidward gets spritzed with plant growth spray, he becomes monstrously huge./When Patrick realizes that he is the only one out of all his friends without a nose, he decides he needs to get a nose, too.",
+            "redirect": "/watch/s6/e03",
+            "image": "/static/s6/03.jpg",
+            "video": "https://cdn21.spirate.repl.co/eps/03.mkv"
+        },
+        "e04": {
+            "title": "4. The Patty Caper/Plankton's Regular",
+            "airdate": "June 22 2008",
+            "length": "24min",
+            "description": "It's time to restock the secret Krabby Patty ingredient, and it is SpongeBob's duty to make sure the ingredient is delivered safely to the Krusty Krab./Plankton has a customer who eats at the Chum Bucket every day.",
+            "redirect": "/watch/s6/e04",
+            "image": "/static/s6/04.jpg",
+            "video": "https://cdn21.spirate.repl.co/eps/04.mkv"
+        },
+        "e05": {
+            "title": "5. Spongicus/Suctioncup Symphony",
+            "airdate": "March 3 2008",
+            "length": "23min",
+            "description": "Plankton has demolished the Chum Bucket! In its place, he has built a Roman coliseum./The Bikini Bottom Symphony is accepting submissions for their composition contest, and Squidward is determined to win.",
+            "redirect": "/watch/s6/e05",
+            "image": "/static/s6/05.jpg",
+            "video": "https://cdn21.spirate.repl.co/eps/05.mkv"
+        },
+        "e06": {
+            "title": "6. Not Normal/Gone",
+            "airdate": "March 4 2008",
+            "length": "24min",
+            "description": "When Squidward points out to SpongeBob that he's not normal, SpongeBob makes it his mission to become normal./SpongeBob wakes up one morning to find that everyone in Bikini Bottom is gone - even Gary!",
+            "redirect": "/watch/s6/e06",
+            "image": "/static/s6/06.jpg",
+            "video": "https://cdn21.spirate.repl.co/eps/06.mkv"
+        },
+        "e07": {
+            "title": "7. Penny Foolish/Nautical Novice",
+            "airdate": "March 2 2008",
+            "length": "23min",
+            "description": "When Mr. Krabs sees SpongeBob pick something up off the street, he begins to obsess over the idea that SpongeBob found a penny - a penny that he should have found first!/SpongeBob's boating school class is going on a field trip.",
+            "redirect": "/watch/s6/e07",
+            "image": "/static/s6/07.jpg",
+            "video": "https://cdn22.spirate.repl.co/eps/07.mkv"
+        },
+        "e08": {
+            "title": "8. Boating Buddies/The Krabby Kronicle",
+            "airdate": "August 7 2008",
+            "length": "24min",
+            "description": "In an attempt to get away from SpongeBob, Squidward drives off in his boat as fast as he can, but he is pulled over and ordered to go to boating school./Mr. Krabs decides to go into the tabloid business.",
+            "redirect": "/watch/s6/e08",
+            "image": "/static/s6/08.jpg",
+            "video": "https://cdn22.spirate.repl.co/eps/08.mkv"
+        },
+        "e09": {
+            "title": "9. The Slumber Party/Grooming Gary",
+            "airdate": "August 15 2008",
+            "length": "24min",
+            "description": "Pearl's getting ready for her slumber party, but Mr. Krabs' meddling in the party preparations is getting out of control./SpongeBob decides to enter Gary in a pet show and gives him a makeover after seeing the competition.",
+            "redirect": "/watch/s6/e09",
+            "image": "/static/s6/09.jpg",
+            "video": "https://cdn22.spirate.repl.co/eps/09.mkv"
+        },
+        "e10": {
+            "title": "10. Krusty Krushers/The Card",
+            "airdate": "September 5 2008",
+            "length": "24min",
+            "description": "Mr. Krabs enrolls SpongeBob and Patrick in a tag-team wrestling tournament",
+            "redirect": "/watch/s6/e10",
+            "image": "/static/s6/10.jpg",
+            "video": "https://cdn22.spirate.repl.co/eps/10.mkv"
+        },
+        "e11": {
+            "title": "11. Dear Vikings/Ditchin",
+            "airdate": "November 27 2008",
+            "length": "24min",
+            "description": "SpongeBob invites Vikings to the Krusty Krab so that he can learn everything about them",
+            "redirect": "/watch/s6/e11",
+            "image": "/static/s6/11.jpg",
+            "video": "https://cdn22.spirate.repl.co/eps/11.mkv"
+        },
+        "e12": {
+            "title": "12. Grandpappy the Pirate/Cephalopod Lodge",
+            "airdate": "February 17 2009",
+            "length": "23min",
+            "description": "Mr. Krabs' granddad is coming to town! But instead of being excited, Mr. Krabs is nervous because his swarthy pirate granddad thinks that Mr. Krabs is a pirate, too.",
+            "redirect": "/watch/s6/e12",
+            "image": "/static/s6/12.jpg",
+            "video": "https://cdn22.spirate.repl.co/eps/12.mkv"
+        },
+        "e13": {
+            "title": "13. Shuffle Boarding/Professor Squidward",
+            "airdate": "February 19 2009",
+            "length": "24min",
+            "description": "SpongeBob and Patrick get carried away when they fill in for Mermaidman and Barnacleboy",
+            "redirect": "/watch/s6/e13",
+            "image": "/static/s6/13.jpg",
+            "video": "https://cdn23.spirate.repl.co/eps/13.mkv"
+        },
+        "e14": {
+            "title": "14. Pets or Pests/Komputer Overload",
+            "airdate": "March 20 2009",
+            "length": "24min",
+            "description": "SpongeBob adopts a stray worm which soon gives birth to a litter of baby worms.",
+            "redirect": "/watch/s6/e14",
+            "image": "/static/s6/14.jpg",
+            "video": "https://cdn23.spirate.repl.co/eps/14.mkv"
+        },
+        "e15": {
+            "title": "15. SpongeBob SquarePants vs. The Big One",
+            "airdate": "August 22 2008",
+            "length": "24min",
+            "description": "SpongeBob and his friends are swept away by a giant wave and find themselves stranded on a remote tropical island. To get back to Bikini Bottom, they need to learn how to surf from enigmatic surf guru, Jack Kahuna Lagun.",
+            "redirect": "/watch/s6/e15",
+            "image": "/static/s6/15.jpg",
+            "video": "https://cdn23.spirate.repl.co/eps/15.mkv"
+        },
+        "e16": {
+            "title": "16. Truth or Square",
+            "airdate": "November 5 2009",
+            "length": "52min",
+            "description": "It's the anniversary of the Krusty Krab! Mr. Krabs calls everyone over early to prepare for the big night. However, a mishap causes the team to get stuck in Krabs' freezer!",
+            "redirect": "/watch/s6/e16",
+            "image": "/static/s6/16.jpg",
+            "video": "https://cdn23.spirate.repl.co/eps/16.mkv"
+        },
+        "e17": {
+            "title": "17. Sand Castles in the Sand/Shell Shocked",
+            "airdate": "May 31 2009",
+            "length": "24min",
+            "description": "A friendly day of building sand castles soon turns into all out war when SpongeBob and Patrick use their sand creations to battle each other.",
+            "redirect": "/watch/s6/e17",
+            "image": "/static/s6/17.jpg",
+            "video": "https://cdn23.spirate.repl.co/eps/17.mkv"
+        },
+        "e18": {
+            "title": "18. Pineapple Fever/Chum Caverns",
+            "airdate": "June 21 2009",
+            "length": "23min",
+            "description": "Squidward gets stuck indoors with SpongeBob and Patrick during a storm.",
+            "redirect": "/watch/s6/e18",
+            "image": "/static/s6/18.jpg",
+            "video": "https://cdn23.spirate.repl.co/eps/18.mkv"
+        },
+        "e19": {
+            "title": "19. The Splinter/Slide Whistle Stooges",
+            "airdate": "March 11 2008",
+            "length": "24min",
+            "description": "While working at the Krusty Krab, SpongeBob accidentally gets a splinter./SpongeBob and Patrick are having fun with their new slide whistles, and, of course, it's driving Squidward crazy.",
+            "redirect": "/watch/s6/e19",
+            "image": "/static/s6/19.jpg",
+            "video": "https://cdn24.spirate.repl.co/eps/19.mkv"
+        },
+        "e20": {
+            "title": "20. Porous Pockets/Choir Boys",
+            "airdate": "August 28 2008",
+            "length": "23min",
+            "description": "SpongeBob becomes the richest citizen of Bikini Bottom",
+            "redirect": "/watch/s6/e20",
+            "image": "/static/s6/20.jpg",
+            "video": "https://cdn24.spirate.repl.co/eps/20.mkv"
+        },
+        "e21": {
+            "title": "21. Squid's Visit/To Squarepants or Not To Square Pants",
+            "airdate": "February 18 2009",
+            "length": "24min",
+            "description": "SpongeBob decorates his home like Squidward's so that his neighbor will visit",
+            "redirect": "/watch/s6/e21",
+            "image": "/static/s6/21.jpg",
+            "video": "https://cdn24.spirate.repl.co/eps/21.mkv"
+        },
+        "e22": {
+            "title": "22. Guillible Pants/Overbooked",
+            "airdate": "March 27 2009",
+            "length": "24min",
+            "description": "Krabs leaves SpongeBob in charge of the Krusty Krab for 15 minutes.",
+            "redirect": "/watch/s6/e22",
+            "image": "/static/s6/22.jpg",
+            "video": "https://cdn24.spirate.repl.co/eps/22.mkv"
+        },
+        "e23": {
+            "title": "23. No Hat for Pat/Toy Store Of Doom",
+            "airdate": "April 5 2009",
+            "length": "24min",
+            "description": "Mr. Krabs offers Patrick a job as a sign-holder.",
+            "redirect": "/watch/s6/e23",
+            "image": "/static/s6/23.jpg",
+            "video": "https://cdn24.spirate.repl.co/eps/23.mkv"
+        },
+        "e24": {
+            "title": "24. The Clash of Triton",
+            "airdate": "June 27 2009",
+            "length": "24min",
+            "description": "King Neptune is celebrating his birthday at the Krusty Krab, and SpongeBob wants to make sure all his friends and family are there, including his son, Triton.",
+            "redirect": "/watch/s6/e24",
+            "image": "/static/s6/24.jpg",
+            "video": "https://cdn24.spirate.repl.co/eps/24.mkv"
+        },
+        "e25": {
+            "title": "25. Chum Bucket Supreme/Single Cell Anniversary",
+            "airdate": "June 7 2009",
+            "length": "24min",
+            "description": "Plankton hires Patrick to create advertising slogans for the Chum Bucket.",
+            "redirect": "/watch/s6/e25",
+            "image": "/static/s6/25.jpg",
+            "video": "https://cdn25.spirate.repl.co/eps/25.mkv"
+        }
+    },
+    "s7": {
+        "e01": {
+            "title": "1. SpongeBob SquarePants - Tentacle-Vision/I Heart Dancing",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Jul 23, 2009",
+            "length": "24min ",
+            "image": "/static/s7/01.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s7/e01"
+        },
+        "e02": {
+            "title": "2. SpongeBob SquarePants - Growth Spout/Stuck in the Wringer",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Jul 23, 2009",
+            "length": "23min ",
+            "image": "/static/s7/02.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s7/e02"
+        },
+        "e03": {
+            "title": "3. SpongeBob SquarePants - Someone's in the Kitchen with Sandy/The Inside Job",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Jul 23, 2009",
+            "length": "24min ",
+            "image": "/static/s7/03.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s7/e03"
+        },
+        "e04": {
+            "title": "4. SpongeBob SquarePants - Greasy Buffoons/Model Sponge",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Nov 26, 2009",
+            "length": "24min ",
+            "image": "/static/s7/04.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s7/e04"
+        },
+        "e05": {
+            "title": "5. SpongeBob SquarePants - Keep Bikini Bottom Beautiful/A Pal for Gary",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Jan 01, 2010",
+            "length": "24min ",
+            "image": "/static/s7/05.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s7/e05"
+        },
+        "e06": {
+            "title": "6. SpongeBob SquarePants - Yours, Mine and Mine/Kracked Krabs",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Sep 10, 2010",
+            "length": "24min ",
+            "image": "/static/s7/06.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s7/e06"
+        },
+        "e07": {
+            "title": "7. SpongeBob SquarePants - The Curse of Bikini Bottom/Squidward in Clarinetland",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Mar 27, 2010",
+            "length": "24min ",
+            "image": "/static/s7/07.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s7/e07"
+        },
+        "e08": {
+            "title": "8. SpongeBob SquarePants - SpongeBob's Last Stand",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Apr 21, 2010",
+            "length": "24min ",
+            "image": "/static/s7/08.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s7/e08"
+        },
+        "e09": {
+            "title": "9. SpongeBob SquarePants - Back to the Past/The Bad Guy Club for Villains",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Feb 14, 2010",
+            "length": "24min ",
+            "image": "/static/s7/09.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s7/e09"
+        },
+        "e10": {
+            "title": "10. SpongeBob SquarePants - A Day Without Tears/Summer Job",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Mar 26, 2010",
+            "length": "24min ",
+            "image": "/static/s7/10.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s7/e10"
+        },
+        "e11": {
+            "title": "11. SpongeBob SquarePants - One Coarse Meal/Gary In Love",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Mar 27, 2010",
+            "length": "23min ",
+            "image": "/static/s7/11.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s7/e11"
+        },
+        "e12": {
+            "title": "12. SpongeBob SquarePants - The Play's The Thing/Rodeo Daze",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Mar 27, 2010",
+            "length": "24min ",
+            "image": "/static/s7/12.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s7/e12"
+        },
+        "e13": {
+            "title": "13. SpongeBob SquarePants - Gramma's Secret Recipe/The Cent of Money",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Jul 08, 2010",
+            "length": "24min ",
+            "image": "/static/s7/13.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s7/e13"
+        },
+        "e14": {
+            "title": "14. SpongeBob SquarePants - The Monster Who Came to Bikini Bottom/Welcome to the Bikini Bottom Triangle/The Curse of the Hex/The Main Drain/Trenchbillies/Sponge-Cano",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "May 27, 2012",
+            "length": "68min ",
+            "image": "/static/s7/14.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s7/e14"
+        },
+        "e15": {
+            "title": "15. SpongeBob SquarePants - The Great Patty Caper",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Nov 10, 2010",
+            "length": "24min ",
+            "image": "/static/s7/15.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s7/e15"
+        },
+        "e16": {
+            "title": "16. SpongeBob SquarePants - That Sinking Feeling/Karate Star",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Jul 09, 2010",
+            "length": "24min ",
+            "image": "/static/s7/16.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s7/e16"
+        },
+        "e17": {
+            "title": "17. SpongeBob SquarePants - Buried in Time/Enchanted Tiki Dreams",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Sep 17, 2010",
+            "length": "24min ",
+            "image": "/static/s7/17.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s7/e17"
+        },
+        "e18": {
+            "title": "18. SpongeBob SquarePants - The Abrasive Side/Earworm",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Nov 26, 2010",
+            "length": "24min ",
+            "image": "/static/s7/18.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s7/e18"
+        },
+        "e19": {
+            "title": "19. SpongeBob SquarePants - Shellback Shenanigans/Hide and Then What Happens?",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Sep 17, 2010",
+            "length": "24min ",
+            "image": "/static/s7/19.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s7/e19"
+        },
+        "e20": {
+            "title": "20. SpongeBob SquarePants - The Masterpiece/Whelk Attack",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Oct 01, 2010",
+            "length": "24min ",
+            "image": "/static/s7/20.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s7/e20"
+        },
+        "e21": {
+            "title": "21. SpongeBob SquarePants - You Don't Know Sponge/Tunnel of Glove",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Feb 11, 2011",
+            "length": "24min ",
+            "image": "/static/s7/21.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s7/e21"
+        },
+        "e22": {
+            "title": "22. SpongeBob SquarePants - Krusty Dogs/The Wreck of the Mauna Loa",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Oct 08, 2010",
+            "length": "24min ",
+            "image": "/static/s7/22.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s7/e22"
+        },
+        "e23": {
+            "title": "23. SpongeBob SquarePants - New Fish in Town/Love That Squid",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Feb 11, 2011",
+            "length": "24min ",
+            "image": "/static/s7/23.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s7/e23"
+        },
+        "e24": {
+            "title": "24. SpongeBob SquarePants - Big Sister Sam/Perfect Chemistry",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Feb 25, 2011",
+            "length": "24min ",
+            "image": "/static/s7/24.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s7/e24"
+        }
+    },
+    "s8": {
+        "e01": {
+            "title": "1. SpongeBob SquarePants - Accidents Will Happen/The Other Patty",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Jul 22, 2011",
+            "length": "24min ",
+            "image": "/static/s8/01.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s8/e01"
+        },
+        "e02": {
+            "title": "2. SpongeBob SquarePants - Drive Thru/The Hot Shot",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Jul 22, 2011",
+            "length": "24min ",
+            "image": "/static/s8/02.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s8/e02"
+        },
+        "e03": {
+            "title": "3. SpongeBob SquarePants - A Friendly Game/Sentimental Sponge",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Apr 02, 2011",
+            "length": "24min ",
+            "image": "/static/s8/03.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s8/e03"
+        },
+        "e04": {
+            "title": "4. SpongeBob SquarePants - Frozen Face Off",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Jul 14, 2011",
+            "length": "23min ",
+            "image": "/static/s8/04.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s8/e04"
+        },
+        "e05": {
+            "title": "5. SpongeBob SquarePants - Squidward's School for Grown Ups/Oral Report",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Jun 03, 2011",
+            "length": "23min ",
+            "image": "/static/s8/05.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s8/e05"
+        },
+        "e06": {
+            "title": "6. SpongeBob SquarePants - Sweet and Sour Squidward/The Googly Artiste",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Jul 22, 2011",
+            "length": "24min ",
+            "image": "/static/s8/06.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s8/e06"
+        },
+        "e07": {
+            "title": "7. SpongeBob SquarePants - SquarePants Family Vacation",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Nov 10, 2011",
+            "length": "24min ",
+            "image": "/static/s8/07.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s8/e07"
+        },
+        "e08": {
+            "title": "8. SpongeBob SquarePants - Patrick's Staycation/Walking The Plankton",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Nov 07, 2011",
+            "length": "24min ",
+            "image": "/static/s8/08.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s8/e08"
+        },
+        "e09": {
+            "title": "9. SpongeBob SquarePants - Mooncation/Mr. Krabs Takes A Vacation",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Nov 09, 2011",
+            "length": "24min ",
+            "image": "/static/s8/09.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s8/e09"
+        },
+        "e10": {
+            "title": "10. SpongeBob SquarePants - Ghoul Fools",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Oct 20, 2011",
+            "length": "24min ",
+            "image": "/static/s8/10.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s8/e10"
+        },
+        "e11": {
+            "title": "11. SpongeBob SquarePants - Mermaidman Begins/Plankton's Good Eye",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Sep 22, 2011",
+            "length": "24min ",
+            "image": "/static/s8/11.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s8/e11"
+        },
+        "e12": {
+            "title": "12. SpongeBob SquarePants - Barnacle Face/Pet Sitter Pat",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Sep 15, 2011",
+            "length": "24min ",
+            "image": "/static/s8/12.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s8/e12"
+        },
+        "e13": {
+            "title": "13. SpongeBob SquarePants - House Sittin' for Sandy/Smoothe Jazz at Bikini Bottom",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Sep 29, 2011",
+            "length": "24min ",
+            "image": "/static/s8/13.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s8/e13"
+        },
+        "e14": {
+            "title": "14. SpongeBob SquarePants - Bubble Trouble/The Way of the Sponge",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Nov 25, 2011",
+            "length": "24min ",
+            "image": "/static/s8/14.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s8/e14"
+        },
+        "e15": {
+            "title": "15. SpongeBob SquarePants - The Krabby Patty That Ate Bikini Bottom/Bubble Buddy Returns",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Nov 24, 2011",
+            "length": "24min ",
+            "image": "/static/s8/15.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s8/e15"
+        },
+        "e16": {
+            "title": "16. SpongeBob SquarePants - Restraining SpongeBob/Fiasco!",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Apr 13, 2012",
+            "length": "24min ",
+            "image": "/static/s8/16.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s8/e16"
+        },
+        "e17": {
+            "title": "17. SpongeBob SquarePants - Are You Happy Now?/Planet of the Jellyfish",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Mar 30, 2012",
+            "length": "24min ",
+            "image": "/static/s8/17.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s8/e17"
+        },
+        "e18": {
+            "title": "18. SpongeBob SquarePants - Free Samples/Home Sweet Rubble",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Apr 13, 2012",
+            "length": "23min ",
+            "image": "/static/s8/18.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s8/e18"
+        },
+        "e19": {
+            "title": "19. SpongeBob SquarePants - Karen 2.0/InSpongeiac",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Apr 13, 2012",
+            "length": "24min ",
+            "image": "/static/s8/19.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s8/e19"
+        },
+        "e20": {
+            "title": "20. SpongeBob SquarePants - Face Freeze!/Glove World R.I.P.",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Aug 03, 2012",
+            "length": "24min ",
+            "image": "/static/s8/20.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s8/e20"
+        },
+        "e21": {
+            "title": "21. SpongeBob SquarePants - Squiditis/Demolition Doofus",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Aug 03, 2012",
+            "length": "23min ",
+            "image": "/static/s8/21.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s8/e21"
+        },
+        "e22": {
+            "title": "22. SpongeBob SquarePants - Treats!/For Here Or To Go",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Apr 13, 2012",
+            "length": "23min ",
+            "image": "/static/s8/22.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s8/e22"
+        },
+        "e23": {
+            "title": "23. SpongeBob SquarePants - It's a SpongeBob Christmas!",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Dec 05, 2012",
+            "length": "24min ",
+            "image": "/static/s8/23.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s8/e23"
+        },
+        "e24": {
+            "title": "24. SpongeBob SquarePants - Super Evil Aquatic Villian Team Up Is Go!/Chum Fricassee",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Oct 26, 2012",
+            "length": "24min ",
+            "image": "/static/s8/24.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s8/e24"
+        },
+        "e25": {
+            "title": "25. SpongeBob SquarePants - The Good Krabby Name/Move It or Lose It",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Nov 02, 2012",
+            "length": "24min ",
+            "image": "/static/s8/25.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s8/e25"
+        },
+        "e26": {
+            "title": "26. SpongeBob SquarePants - Hello Bikini Bottom!",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Oct 07, 2012",
+            "length": "24min ",
+            "image": "/static/s8/26.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s8/e26"
+        }
+    },
+    "s9": {
+        "e01": {
+            "title": "1. SpongeBob SquarePants - Extreme Spots/Squirrel Record",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Jul 21, 2012",
+            "length": "23min ",
+            "image": "/static/s9/01.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s9/e01"
+        },
+        "e02": {
+            "title": "2. SpongeBob SquarePants - License to Milkshake/Squid Baby",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Sep 08, 2012",
+            "length": "23min ",
+            "image": "/static/s9/02.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s9/e02"
+        },
+        "e03": {
+            "title": "3. SpongeBob SquarePants - Patrick-Man!/Gary's New Toy",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Nov 03, 2012",
+            "length": "23min ",
+            "image": "/static/s9/03.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s9/e03"
+        },
+        "e04": {
+            "title": "4. SpongeBob SquarePants - Squid's Defense/Eek, An Urchin!",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Jan 01, 2013",
+            "length": "23min ",
+            "image": "/static/s9/04.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s9/e04"
+        },
+        "e05": {
+            "title": "5. SpongeBob SquarePants - Little Yellow Book/Bumper to Bumper",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Mar 10, 2013",
+            "length": "23min ",
+            "image": "/static/s9/05.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s9/e05"
+        },
+        "e06": {
+            "title": "6. SpongeBob SquarePants - Jailbreak!/Evil Spatula",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Mar 16, 2013",
+            "length": "23min ",
+            "image": "/static/s9/06.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s9/e06"
+        },
+        "e07": {
+            "title": "7. SpongeBob SquarePants - Safe Deposit Krabs/Plankton's Pet",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "May 25, 2013",
+            "length": "23min ",
+            "image": "/static/s9/07.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s9/e07"
+        },
+        "e08": {
+            "title": "8. SpongeBob SquarePants - Don't Look Now/S\u00e9ance Schm\u00e9ance",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Oct 14, 2013",
+            "length": "23min ",
+            "image": "/static/s9/08.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s9/e08"
+        },
+        "e09": {
+            "title": "9. SpongeBob SquarePants - SpongeBob, You're Fired!",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Nov 11, 2013",
+            "length": "23min ",
+            "image": "/static/s9/09.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s9/e09"
+        },
+        "e10": {
+            "title": "10. SpongeBob SquarePants - SpongeBob vs. The Goo",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Feb 17, 2014",
+            "length": "24min ",
+            "image": "/static/s9/10.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s9/e10"
+        },
+        "e11": {
+            "title": "11. SpongeBob SquarePants - Kenny the Cat/Yeti Krabs",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Apr 04, 2015",
+            "length": "24min ",
+            "image": "/static/s9/11.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s9/e11"
+        },
+        "e12": {
+            "title": "12. SpongeBob SquarePants - Lost in Bikini Bottom/Tutor Sauce",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Jul 16, 2015",
+            "length": "23min ",
+            "image": "/static/s9/12.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s9/e12"
+        },
+        "e13": {
+            "title": "13. SpongeBob SquarePants - The Executive Treatment/Squid Plus One",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Sep 07, 2015",
+            "length": "23min ",
+            "image": "/static/s9/13.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s9/e13"
+        },
+        "e14": {
+            "title": "14. SpongeBob SquarePants - Company Picnic/Pull Up a Barrel",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Oct 09, 2015",
+            "length": "23min ",
+            "image": "/static/s9/14.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s9/e14"
+        },
+        "e15": {
+            "title": "15. SpongeBob SquarePants - Sanctuary!/What's Eating Patrick?",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Oct 16, 2015",
+            "length": "23min ",
+            "image": "/static/s9/15.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s9/e15"
+        },
+        "e16": {
+            "title": "16. SpongeBob SquarePants - Patrick! The Game/The Sewers of Bikini Bottom",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Nov 11, 2015",
+            "length": "23min ",
+            "image": "/static/s9/16.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s9/e16"
+        },
+        "e17": {
+            "title": "17. SpongeBob SquarePants - SpongeBob LongPants/Larry's Gym",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Feb 15, 2016",
+            "length": "23min ",
+            "image": "/static/s9/17.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s9/e17"
+        },
+        "e18": {
+            "title": "18. SpongeBob SquarePants - Mall Girl Pearl/Two Thumbs Down",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Mar 12, 2016",
+            "length": "23min ",
+            "image": "/static/s9/18.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s9/e18"
+        },
+        "e19": {
+            "title": "19. SpongeBob SquarePants - The Fish Bowl/Married to Money",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "May 07, 2016",
+            "length": "23min ",
+            "image": "/static/s9/19.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s9/e19"
+        },
+        "e20": {
+            "title": "20. SpongeBob SquarePants - Sharks vs. Pods/CopyBob DittoPants",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "May 07, 2016",
+            "length": "23min ",
+            "image": "/static/s9/20.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s9/e20"
+        },
+        "e21": {
+            "title": "21. SpongeBob SquarePants - Sold!/Lame and Fortune",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Jul 17, 2016",
+            "length": "23min ",
+            "image": "/static/s9/21.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s9/e21"
+        },
+        "e22": {
+            "title": "22. SpongeBob SquarePants - Pineapple Invasion/Salsa Imbecilicus",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Jul 17, 2016",
+            "length": "23min ",
+            "image": "/static/s9/22.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s9/e22"
+        },
+        "e23": {
+            "title": "23. SpongeBob SquarePants - Sandy's Nutmare/Bulletin Board",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Oct 22, 2016",
+            "length": "23min ",
+            "image": "/static/s9/23.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s9/e23"
+        },
+        "e24": {
+            "title": "24. SpongeBob SquarePants - Food Con Castaways/Snail Mail",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Nov 05, 2016",
+            "length": "23min ",
+            "image": "/static/s9/24.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s9/e24"
+        },
+        "e25": {
+            "title": "25. SpongeBob SquarePants - Mutiny on the Krusty/The Whole Tooth",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Dec 04, 2016",
+            "length": "23min ",
+            "image": "/static/s9/25.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s9/e25"
+        },
+        "e26": {
+            "title": "26. SpongeBob SquarePants - Goodbye, Krabby Patty?",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Feb 20, 2017",
+            "length": "23min ",
+            "image": "/static/s9/26.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s9/e26"
+        }
+    },
+    "s10": {
+        "e01": {
+            "title": "1. SpongeBob SquarePants - Whirlybrains/MermaidPants",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Nov 05, 2016",
+            "length": "23min ",
+            "image": "/static/s10/01.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s10/e01"
+        },
+        "e02": {
+            "title": "2. SpongeBob SquarePants - Mimic Madness/House Worming",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Feb 24, 2017",
+            "length": "23min ",
+            "image": "/static/s10/02.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s10/e02"
+        },
+        "e03": {
+            "title": "3. SpongeBob SquarePants - Snooze You Lose/Krusty Katering",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Mar 04, 2017",
+            "length": "23min ",
+            "image": "/static/s10/03.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s10/e03"
+        },
+        "e04": {
+            "title": "4. SpongeBob SquarePants - SpongeBob's Place/Plankton Gets the Boot",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Mar 11, 2017",
+            "length": "24min ",
+            "image": "/static/s10/04.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s10/e04"
+        },
+        "e05": {
+            "title": "5. SpongeBob SquarePants - Life Insurance/Burst Your Bubble",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Mar 18, 2017",
+            "length": "23min ",
+            "image": "/static/s10/05.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s10/e05"
+        },
+        "e06": {
+            "title": "6. SpongeBob SquarePants - Plankton Retires/Trident Trouble",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Mar 25, 2017",
+            "length": "23min ",
+            "image": "/static/s10/06.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s10/e06"
+        },
+        "e07": {
+            "title": "7. SpongeBob SquarePants - Unreal Estate/Code Yellow",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Jun 03, 2017",
+            "length": "24min ",
+            "image": "/static/s10/07.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s10/e07"
+        },
+        "e08": {
+            "title": "8. SpongeBob SquarePants - The Getaway/Lost and Found",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Jun 10, 2017",
+            "length": "23min ",
+            "image": "/static/s10/08.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s10/e08"
+        },
+        "e09": {
+            "title": "9. SpongeBob SquarePants - Patrick's Coupon/Out of the Picture",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Jun 17, 2017",
+            "length": "23min ",
+            "image": "/static/s10/09.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s10/e09"
+        },
+        "e10": {
+            "title": "10. SpongeBob SquarePants - Feral Friends/Don't Wake Patrick",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Oct 07, 2017",
+            "length": "23min ",
+            "image": "/static/s10/10.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s10/e10"
+        },
+        "e11": {
+            "title": "11. SpongeBob SquarePants - The Incredible Shrinking Sponge/Sportz?",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Dec 03, 2017",
+            "length": "23min ",
+            "image": "/static/s10/11.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s10/e11"
+        }
+    },
+    "s11": {
+        "e01": {
+            "title": "1. SpongeBob SquarePants - Spot Returns/The Check-Up",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Jun 23, 2017",
+            "length": "23min ",
+            "image": "/static/s11/01.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s11/e01"
+        },
+        "e02": {
+            "title": "2. SpongeBob SquarePants - Cave Dwelling Sponge/The Clam Whisperer",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Sep 22, 2017",
+            "length": "23min ",
+            "image": "/static/s11/02.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s11/e02"
+        },
+        "e03": {
+            "title": "3. SpongeBob SquarePants - Man Ray Returns/Larry the Floor Manager",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Sep 29, 2017",
+            "length": "23min ",
+            "image": "/static/s11/03.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s11/e03"
+        },
+        "e04": {
+            "title": "4. SpongeBob SquarePants - The Legend of Boo-Kini Bottom",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Oct 12, 2017",
+            "length": "24min ",
+            "image": "/static/s11/04.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s11/e04"
+        },
+        "e05": {
+            "title": "5. SpongeBob SquarePants - Krabby Patty Creature Feature/Teacher's Pests",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Oct 20, 2017",
+            "length": "23min ",
+            "image": "/static/s11/05.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s11/e05"
+        },
+        "e06": {
+            "title": "6. SpongeBob SquarePants - No Pictures, Please/Stuck on the Roof",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Nov 05, 2017",
+            "length": "23min ",
+            "image": "/static/s11/06.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s11/e06"
+        },
+        "e07": {
+            "title": "7. SpongeBob SquarePants - Spin the Bottle/There's a Sponge in My Soup",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Nov 10, 2017",
+            "length": "23min ",
+            "image": "/static/s11/07.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s11/e07"
+        },
+        "e08": {
+            "title": "8. SpongeBob SquarePants - Squid Noir/Scavenger Pants",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Nov 11, 2017",
+            "length": "23min ",
+            "image": "/static/s11/08.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s11/e08"
+        },
+        "e09": {
+            "title": "9. SpongeBob SquarePants - Cuddle E. Hugs/Pat the Horse",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Dec 15, 2017",
+            "length": "23min ",
+            "image": "/static/s11/09.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s11/e09"
+        },
+        "e10": {
+            "title": "10. SpongeBob SquarePants - Chatterbox Gary/Don't Feed the Clowns",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Feb 11, 2018",
+            "length": "23min ",
+            "image": "/static/s11/10.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s11/e10"
+        },
+        "e11": {
+            "title": "11. SpongeBob SquarePants - Drive Happy/Old Man Patrick",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Feb 16, 2018",
+            "length": "23min ",
+            "image": "/static/s11/11.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s11/e11"
+        },
+        "e12": {
+            "title": "12. SpongeBob SquarePants - Fun-Sized Friends/Grandmum's the Word",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Feb 16, 2018",
+            "length": "23min ",
+            "image": "/static/s11/12.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s11/e12"
+        },
+        "e13": {
+            "title": "13. SpongeBob SquarePants - Doodle Dimension/Moving Bubble Bass",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Mar 16, 2018",
+            "length": "23min ",
+            "image": "/static/s11/13.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s11/e13"
+        },
+        "e14": {
+            "title": "14. SpongeBob SquarePants - High Sea Diving/Bottle Burglars",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Apr 14, 2018",
+            "length": "24min ",
+            "image": "/static/s11/14.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s11/e14"
+        },
+        "e15": {
+            "title": "15. SpongeBob SquarePants - Sanitation Insanity/Bunny Hunt",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "May 10, 2018",
+            "length": "24min ",
+            "image": "/static/s11/15.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s11/e15"
+        },
+        "e16": {
+            "title": "16. SpongeBob SquarePants - My Leg!/Ink Lemonade",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "May 11, 2018",
+            "length": "23min ",
+            "image": "/static/s11/16.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s11/e16"
+        },
+        "e17": {
+            "title": "17. SpongeBob SquarePants - Whale Watching/Krusty Kleaners",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Aug 10, 2018",
+            "length": "24min ",
+            "image": "/static/s11/17.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s11/e17"
+        },
+        "e18": {
+            "title": "18. SpongeBob SquarePants - Patnocchio/ChefBob",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Aug 10, 2018",
+            "length": "23min ",
+            "image": "/static/s11/18.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s11/e18"
+        },
+        "e19": {
+            "title": "19. SpongeBob SquarePants - Mustard O' Mine/Shopping List",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Sep 27, 2018",
+            "length": "23min ",
+            "image": "/static/s11/19.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s11/e19"
+        },
+        "e20": {
+            "title": "20. SpongeBob SquarePants - Plankton Paranoia/Library Cards",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Sep 28, 2018",
+            "length": "23min ",
+            "image": "/static/s11/20.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s11/e20"
+        },
+        "e21": {
+            "title": "21. SpongeBob SquarePants - The Grill is Gone/The Night Patty",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Oct 20, 2018",
+            "length": "23min ",
+            "image": "/static/s11/21.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s11/e21"
+        },
+        "e22": {
+            "title": "22. SpongeBob SquarePants - Appointment TV/Karen's Virus",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Oct 31, 2018",
+            "length": "24min ",
+            "image": "/static/s11/22.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s11/e22"
+        },
+        "e23": {
+            "title": "23. SpongeBob SquarePants - Bubbletown/Girls' Night Out",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Nov 09, 2018",
+            "length": "23min ",
+            "image": "/static/s11/23.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s11/e23"
+        },
+        "e24": {
+            "title": "24. SpongeBob SquarePants - Call the Cops/Surf N' Turf",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Nov 11, 2018",
+            "length": "23min ",
+            "image": "/static/s11/24.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s11/e24"
+        },
+        "e25": {
+            "title": "25. SpongeBob SquarePants - Squirrel Jelly/The String",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Nov 17, 2018",
+            "length": "23min ",
+            "image": "/static/s11/25.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s11/e25"
+        },
+        "e26": {
+            "title": "26. SpongeBob SquarePants - Goons on the Moon",
+            "description": "no description provided (stream unavailable)",
+            "airdate": "Nov 24, 2018",
+            "length": "23min ",
+            "image": "/static/s11/26.png",
+            "video": "Unavailable",
+            "redirect": "/watch/s11/e26"
+        }
+    }
+}

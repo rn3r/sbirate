@@ -1,0 +1,90 @@
+[
+    {
+        "title": "Season 1", 
+        "description": "Status: Episodes uploaded and should work properly", 
+        "airdate": "May 5 1999", 
+        "length": "20 Episodes",
+        "image": "static/s1/01.jpg",
+        "redirect": "/episodes/s1"
+    },
+    {
+        "title": "Season 2", 
+        "description": "Status: Episodes uploaded and may not work properly", 
+        "airdate": "October 12 2000", 
+        "length": "20 Episodes",
+        "image": "static/s2/01.jpg",
+        "redirect": "/episodes/s2"
+    },
+    {
+        "title": "Season 3", 
+        "description": "Status: Episodes uploaded and may not work properly", 
+        "airdate": "October 2 2001", 
+        "length": "20 Episodes",
+        "image": "static/s3/01.jpg",
+        "redirect": "/episodes/s3"
+    },
+    {
+        "title": "Season 4", 
+        "description": "Status: Episodes uploaded and may not work properly", 
+        "airdate": "May 5 2005", 
+        "length": "20 Episodes",
+        "image": "static/s4/01.jpg",
+        "redirect": "/episodes/s4"
+    },
+    {
+        "title": "Season 5", 
+        "description": "Status: Episodes uploaded and may not work properly", 
+        "airdate": "April 12 2007", 
+        "length": "20 Episodes",
+        "image": "static/s5/01.jpg",
+        "redirect": "/episodes/s5"
+    },
+    {
+        "title": "Season 6", 
+        "description": "Status: Episodes not uploaded and will not work properly", 
+        "airdate": "March 1 2008", 
+        "length": "25 Episodes",
+        "image": "static/s6/01.jpg",
+        "redirect": "/episodes/s6"
+    },
+    {
+        "title": "Season 7", 
+        "description": "Status: Episodes not uploaded and will not work properly", 
+        "airdate": "July 23 2009", 
+        "length": "25 Episodes",
+        "image": "static/s7/01.png",
+        "redirect": "/episodes/s7"
+    },
+    {
+        "title": "Season 8", 
+        "description": "Status: Episodes not uploaded and will not work properly", 
+        "airdate": "July 22 2011", 
+        "length": "26 Episodes",
+        "image": "static/s8/01.png",
+        "redirect": "/episodes/s8"
+    },
+    {
+        "title": "Season 9", 
+        "description": "Status: Episodes not uploaded and will not work properly", 
+        "airdate": "July 21 2012", 
+        "length": "26 Episodes",
+        "image": "static/s9/01.png",
+        "redirect": "/episodes/s9"
+    },
+    {
+        "title": "Season 10", 
+        "description": "Status: Episodes not uploaded and will not work properly", 
+        "airdate": "November 5 2016", 
+        "length": "11 Episodes",
+        "image": "static/s10/01.png",
+        "redirect": "/episodes/s10"
+    },
+    {
+        "title": "Season 11", 
+        "description": "Status: Episodes not uploaded and will not work properly", 
+        "airdate": "June 23 2017", 
+        "length": "26 Episodes",
+        "image": "static/s11/01.png",
+        "redirect": "/episodes/s11"
+    }
+]

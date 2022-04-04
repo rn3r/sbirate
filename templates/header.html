@@ -1,0 +1,67 @@
+<nav v-if="isLoaded" class="text-yellow-500">
+    <div class="pc">
+        <a class="font-black float-left text-2xl" href="/">Spirate</a>
+        <a class="font-black right-0 float-right ml-5 underline underline-offset-1 text-orange-400 mt-1" href="/register">Register</a>
+        <a class="font-black right-0 float-right ml-5 underline underline-offset-1 text-orange-400 mt-1" href="/login">Login</a>
+        <a class="font-black right-0 float-right ml-5 mt-1" href="/episodes">Episodes</a>
+        <a class="font-black right-0 float-right ml-5 mt-1" href="/info">Information</a>
+    </div>
+    <div class="mobile">
+        <a class="font-black float-left text-2xl" href="/">Spirate</a>
+        <a class="font-black right-0 float-right ml-5 text-orange-500" onclick="toggleSidebar()"><i class="fa-solid fa-bars font-black text-2xl"></i></a>
+    </div> 
+    <aside style="height: 100%; z-index: 1000 !important; position: fixed; right:0px" class="mobile w-64 mt-10 bg-stone-900" aria-label="Sidebar" id="mySidebar" >
+        <div class="overflow-y-auto py-4 px-3 dark:bg-stone-900">
+           <ul class="space-y-2">
+             {% if "sessid" not in session %}
+             <li>
+                 <a href="/register" class="flex bg-stone-800 hover:bg-orange-700 duration-500 items-center p-2 text-base font-normal text-gray-900 rounded-lg ">
+                    <span class="ml-3" style="color: white">Register</span>
+                 </a>
+             </li>
+             <li>
+                 <a href="/login" class="flex bg-stone-800 hover:bg-orange-700 duration-500 items-center p-2 text-base font-normal text-gray-900 rounded-lg ">
+                    <span class="ml-3" style="color: white">Login</span>
+                 </a>
+             </li>
+             {% else %}
+             <li>
+                 <a href="/account" class="flex bg-stone-800 hover:bg-orange-700 duration-500 items-center p-2 text-base font-normal text-gray-900 rounded-lg ">
+                    <span class="ml-3" style="color: white">Account</span>
+                 </a>
+             </li>
+             <li>
+                 <a href="/logout" class="flex bg-stone-800 hover:bg-orange-700 duration-500 items-center p-2 text-base font-normal text-gray-900 rounded-lg ">
+                    <span class="ml-3" style="color: white">Logout</span>
+                 </a>
+             </li>
+             {% endif %}
+             <li>
+                 <a href="/episodes" class="flex bg-stone-800 hover:bg-orange-700 duration-500 items-center p-2 text-base font-normal text-gray-900 rounded-lg ">
+                    <span class="ml-3" style="color: white">Episodes</span>
+                 </a>
+             </li>
+             <li>
+                 <a href="/info" class="flex bg-stone-800 hover:bg-orange-700 duration-500 items-center p-2 text-base font-normal text-gray-900 rounded-lg ">
+                    <span class="ml-3" style="color: white">Information</span>
+                 </a>
+             </li>
+           </ul>
+        </div>
+    </aside>
+    <script>
+        var sideBarOpen = true;
+        function toggleSidebar() {
+            if(sideBarOpen){
+                $('#mySidebar').animate({marginRight:'-256px'},300,"easeInOutQuad");
+                //$("#mySidebar").css("display", "none");
+            }
+            else{
+                $('#mySidebar').animate({marginRight:'0px'},300,"easeInOutQuad");
+                //$("#mySidebar").css("display", "block");
+            }
+            sideBarOpen = !sideBarOpen;
+        }
+        toggleSidebar()
+    </script>
+</nav>

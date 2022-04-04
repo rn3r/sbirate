@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {% include 'head.html' %}
+    <title>Spirate Browse</title>
+</head>
+<body class="bg-fixed bg-gradient-to-br from-gray-900 via-zinc-800 to-stone-700">
+    <header class="fixed w-screen bg-stone-900 h-fit py-3 px-3 shadow-lg rounded-b">
+        {% include 'header.html' %}
+    </header>
+    <br><br><br>
+    <span class="grid grid-cols-1 gap-5 py-5 big-pad">
+        {% for episode in episodes %}
+        <span class="text-white rounded bg-stone-900 hover:bg-stone-800 duration-500">
+            <a href='{{episode["redirect"]}}' class="cursor-pointer">
+                <div>
+                    <img src='{{episode["image"]}}' class="float-left mr-5 rounded-l-lg stretch">
+                    <div class="px-3">
+                        <h1 class="font-bold text-2xl">{{episode["title"]}}</h1>
+                        <small><small class="font-md">{{episode["airdate"]}}</small></small>
+                        <div class="flex flex-col mt-auto py-10">
+                            <h1 class="font-thin text-md">{{episode["description"]}}<br><small class="text-gray-400">{{episode["length"]}}</small></h1>
+                        </div>
+                    </div>
+                </div>
+            </a>
+        </span>
+        {% endfor %}
+    </span>
+</body>
+<script src="https://cdn.jsdelivr.net/npm/tw-elements/dist/js/index.min.js"></script>
+</html>

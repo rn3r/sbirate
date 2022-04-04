@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {% include 'head.html' %}
+    <title>Spirate Player</title>
+</head>
+<body class="bg-zinc-900">
+    <header class="w-screen bg-stone-900 h-fit py-3 px-3 shadow-lg rounded-b" id="header" style="z-index: 10000000000000000000000000000000000000000 !important;">
+        {% include 'header.html' %}
+    </header>
+    <div class="mx-auto">
+        <div> 
+            <video-js id="episode" controls preload="auto" seekable="true" data-setup="{}" class="video-js vjs-big-play-button vjs-big-play-centered mx-auto aspect-video h-screen" style="width: 100%;">
+                <source src="{{episodes['video']}}" type="video/mp4" />
+            </video-js>
+            <button id="skipIntro" onclick="skipIntro()" aria-live="off" aria-atomic="true" class="flex text-white float-right right-0 mr-5 p-5 bg-gray-600 text-5xl rounded-lg shadow-lg hover:bg-gray-700 opacity-50 -mt-32">Skip Intro</button>
+            <button id="nextEpisode" onclick="nextEp()" aria-live="off" aria-atomic="true" class="flex text-white float-right right-0 mr-5 p-5 bg-gray-600 text-5xl rounded-lg shadow-lg hover:bg-gray-700 opacity-50 -mt-32">Next Episode</button>
+        </div>
+    </div>
+    <br><br>
+    <div>
+        <h1 class="text-white p-5 text-4xl">After this episode: </h1>
+        <span class="grid xs:grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5 2xl:grid-cols-7 gap-4 py-2 px-5">
+            {% for episode in inSeason %}
+            <span class="text-white rounded hover:bg-stone-800 duration-500 h-fit">
+                <a href='{{episode["redirect"]}}' class="cursor-pointer">
+                    <div>
+                        <img src='{{episode["image"]}}' class="rounded-l-lg stretch" width="100%">
+                        <div class="py-2 px-2">
+                            <h1><small class="font-md">{{episode["airdate"]}}</small><small class="float-right text-gray-400 ml-2">{{episode["length"]}}</small></h1>
+                            <h1 class="font-md">{{episode["title"]}}</h1>
+                        </div>
+                    </div>
+                </a>
+            </span>
+            {% endfor %}
+        </span>
+    </div>
+</body>
+<script src="https://cdn.jsdelivr.net/npm/tw-elements/dist/js/index.min.js"></script>
+<script src="https://vjs.zencdn.net/7.11.4/video.min.js"></script>
+</html>
+
+<script>
+document.getElementById('episode').addEventListener('ended',nextEp,false);
+function nextEp(e) {
+    window.location.href = "http://192.168.0.118:8000{{nextep}}"
+}
+</script>
+<script>
+function skipIntro() {
+    var vid = document.getElementById("episode_html5_api");
+    vid.currentTime = 50;
+    $("#skipIntro").css("display", "none")
+}
+
+function checkIntro() {
+    var vid = document.getElementById("episode_html5_api");
+    if(vid.currentTime < 50) {
+        $("#skipIntro").css("display", "block")
+        $("#skipIntro").css("position", "fixed")
+    }else{
+        $("#skipIntro").css("display", "none")
+    }
+
+    if(vid.duration-vid.currentTime < 50) {
+        $("#nextEpisode").css("display", "block")
+        $("#nextEpisode").css("position", "fixed")
+    }else{
+        $("#nextEpisode").css("display", "none")
+    }
+}
+
+var scrollTop = window.scrollY;
+function checkScroll() {
+    scrollTop = window.scrollY;
+    if(scrollTop < 50){
+        $("#header").css("display", "none")
+    }else{
+        $("#header").css("display", "block")
+        $("#header").css("position", "fixed")
+    }
+}
+
+function doIntervals() {
+    checkIntro() 
+    checkScroll()
+}
+
+window.setInterval(doIntervals, 100)
+
+</script>

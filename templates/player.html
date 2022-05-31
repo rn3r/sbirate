@@ -10,11 +10,17 @@
     </header>
     <div class="mx-auto">
         <div> 
-            <video-js id="episode" controls preload="auto" seekable="true" data-setup="{}" class="video-js vjs-big-play-button vjs-big-play-centered mx-auto aspect-video h-screen" style="width: 100%;">
+            <video-js poster="{{episodes['image']}}" id="episode" controls preload="auto" seekable="true" data-setup="{}" class="video-js vjs-big-play-button vjs-big-play-centered mx-auto aspect-video h-screen" style="width: 100%;">
                 <source src="{{episodes['video']}}" type="video/mp4" />
             </video-js>
-            <button id="skipIntro" onclick="skipIntro()" aria-live="off" aria-atomic="true" class="flex text-white float-right right-0 mr-5 p-5 bg-gray-600 text-5xl rounded-lg shadow-lg hover:bg-gray-700 opacity-50 -mt-32">Skip Intro</button>
-            <button id="nextEpisode" onclick="nextEp()" aria-live="off" aria-atomic="true" class="flex text-white float-right right-0 mr-5 p-5 bg-gray-600 text-5xl rounded-lg shadow-lg hover:bg-gray-700 opacity-50 -mt-32">Next Episode</button>
+            <div class="custom-video-buttons" id="customButtons">
+                <button class="custom-video-button" id="skipIntro" onclick="skipIntro()" aria-live="off" aria-atomic="true" class="custom-video-buttons" style="display: flex; flex: auto;">Skip Intro</button>
+                <button class="custom-video-button" id="nextEpisode" onclick="nextEp()" aria-live="off" aria-atomic="true" class="custom-video-buttons" style="display: flex; flex: auto;">Next Episode</button>
+            </div>
+            <div class="custom-video-text" id="customText">
+                <h1 class="custom-video-text" aria-live="off" aria-atomic="true" id="episodeTitle">{{episodes['title']}}</h1>
+            </div>
+            
         </div>
     </div>
     <br><br>
@@ -25,7 +31,7 @@
             <span class="text-white rounded hover:bg-stone-800 duration-500 h-fit">
                 <a href='{{episode["redirect"]}}' class="cursor-pointer">
                     <div>
-                        <img src='{{episode["image"]}}' class="rounded-l-lg stretch" width="100%">
+                        <img loading="lazy" src='{{episode["image"]}}' class="rounded-lg stretch" width="100%">
                         <div class="py-2 px-2">
                             <h1><small class="font-md">{{episode["airdate"]}}</small><small class="float-right text-gray-400 ml-2">{{episode["length"]}}</small></h1>
                             <h1 class="font-md">{{episode["title"]}}</h1>
@@ -42,32 +48,57 @@
 </html>
 
 <script>
-document.getElementById('episode').addEventListener('ended',nextEp,false);
+document.getElementById('episode_html5_api').addEventListener('ended',nextEp,false);
 function nextEp(e) {
-    window.location.href = "http://192.168.0.118:8000{{nextep}}"
+    window.location.href = "https://sbirate.repl.co{{nextep}}"
 }
 </script>
 <script>
 function skipIntro() {
-    var vid = document.getElementById("episode_html5_api");
-    vid.currentTime = 50;
+    var myPlayer = videojs('episode');
+    myPlayer.currentTime(50)
     $("#skipIntro").css("display", "none")
+    $('.vjs-fullscreen-control').click();
 }
 
+$.getJSON("/api/player/get-spot", function(data) {
+    if(data["episode"] == "{{episode}}" && data["season"] == "{{season}}") {
+        var vid = document.getElementById("episode_html5_api");
+        vid.currentTime = data["seconds"]
+    }
+});
+
+var toggle = 0
+    
 function checkIntro() {
+    var myPlayer = videojs('episode');
     var vid = document.getElementById("episode_html5_api");
     if(vid.currentTime < 50) {
-        $("#skipIntro").css("display", "block")
-        $("#skipIntro").css("position", "fixed")
+        $("#skipIntro").css("display", "flex")
     }else{
         $("#skipIntro").css("display", "none")
     }
 
     if(vid.duration-vid.currentTime < 50) {
-        $("#nextEpisode").css("display", "block")
-        $("#nextEpisode").css("position", "fixed")
+        $("#nextEpisode").css("display", "flex")
     }else{
         $("#nextEpisode").css("display", "none")
+    }
+    if($('#customButtons','#episode').length != 1) {
+        $("#customButtons").appendTo("#episode");
+    }
+    if($('#customText','#episode').length != 1) {
+        $("#customText").appendTo("#episode");
+    }
+
+    if($("#episode").hasClass("vjs-user-active") || $("#episode").hasClass("vjs-paused")){
+        if(toggle==0){
+            $('#customText').animate({opacity:1},200);
+            toggle = 1
+        }
+    }else if(toggle == 1){
+        $('#customText').animate({opacity:0},500);
+        toggle = 0
     }
 }
 
@@ -82,11 +113,32 @@ function checkScroll() {
     }
 }
 
+var saveSpotNum = 0
+function saveSpot() {
+    var vid = document.getElementById("episode_html5_api");
+    if(saveSpotNum%500 === 0){
+        $.ajax({
+            url:"/api/player/save-spot",
+            type:"POST",
+    
+            data:{
+                seconds: Math.round(vid.currentTime),
+                season: "{{season}}",
+                episode: "{{episode}}"
+            },headers: {
+                'X-CSRFtoken': "{{csrf_token()}}"
+            }
+        });
+    }
+    saveSpotNum += 1
+}
+    
 function doIntervals() {
     checkIntro() 
     checkScroll()
+    saveSpot()
 }
 
-window.setInterval(doIntervals, 100)
+window.setInterval(doIntervals, 10)
 
 </script>

@@ -26,6 +26,23 @@ def home():
 def eps():
     with open("static/seasons.json", "r") as f:
         seasons = json.load(f)
+
+    if 'sessid' in session:
+        with open('data/accounts.json', 'r') as f:
+            data = json.load(f)
+        d = queryJson(session["sessid"], 'sessid', data)
+        resume = d["resume"]["data"]
+        with open("static/episodes.json", "r") as f:
+            episode_data = json.load(f)[resume["season"]][resume["episode"]]
+        seasons.insert(0, {
+            'title': 'last watching', 
+            'description': 'click here to resume', 
+            'redirect': episode_data['redirect'], 
+            'airdate': episode_data['airdate'],
+            'image': episode_data['image'],
+            'length': f"{resume['season']} {resume['episode']}"
+        })
+        
     return render_template("browse.html", session=session, episodes=seasons)
 
 @f_.route('/episodes/<season>', methods=["GET", "POST"])
@@ -42,6 +59,22 @@ def szneps(season):
 
     for a in episodes_data:
         episodes.append(episodes_data[a])
+
+    if 'sessid' in session:
+        with open('data/accounts.json', 'r') as f:
+            data = json.load(f)
+        d = queryJson(session["sessid"], 'sessid', data)
+        resume = d["resume"]["data"]
+        with open("static/episodes.json", "r") as f:
+            episode_data = json.load(f)[resume["season"]][resume["episode"]]
+        episodes.insert(0, {
+            'title': 'last watching', 
+            'description': 'click here to resume', 
+            'redirect': episode_data['redirect'], 
+            'airdate': episode_data['airdate'],
+            'image': episode_data['image'],
+            'length': f"{resume['season']} {resume['episode']}"
+        })
 
     return render_template("browse.html", session=session, episodes=episodes)
 
@@ -69,7 +102,7 @@ def watch(season, episode):
         if a == episode:
             passed = True
 
-    if len(szn) == 0:
+    if len(szn) < 8:
         seasonNum = int(season.split("s")[1])+1
         seasonNum = seasonNum%12
         if seasonNum == 0:
@@ -83,4 +116,11 @@ def watch(season, episode):
                 nextep = f"/watch/{s}/{a}"
             szn.append(edata[a])
 
-    return render_template("player.html", session=session, episodes=data, inSeason=szn, nextep=nextep)
+    return render_template("player.html", session=session, episodes=data, inSeason=szn, nextep=nextep, season=season, episode=episode)
+
+@f_.route('/logout', methods=["GET", "POST"])
+def logout():
+    if 'sessid' in session:
+        session.clear()
+        
+    return redirect("/")

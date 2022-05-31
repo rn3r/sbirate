@@ -31,7 +31,7 @@ for route in all_routes:
 
 @app.errorhandler(404)
 def page_not_found(e):
-    return render_template("404.html", session=session)
+    return render_template("404.html", session=session), 404
 
 @app.errorhandler(CSRFError)
 def handle_csrf_error(e):
@@ -40,5 +40,5 @@ def handle_csrf_error(e):
 
 #Starting App
 os.system("cls")
-server = Thread(target = app.run(host = '0.0.0.0', port=8000, debug=True))
+server = Thread(target = app.run(host = '0.0.0.0', port=8000))
 server.start()

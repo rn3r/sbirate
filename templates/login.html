@@ -18,10 +18,10 @@
             </div>
             <hr class="bg-yellow-700 border-none h-1 rounded mb-3 mt-3">
             <div class="float-right">
-                <label for="toggleB" class="flex items-center cursor-pointer text-white font-thin">
+                <label for="agree" class="flex items-center cursor-pointer text-white font-thin">
                 Remember me
                 <div class="ml-2 relative">
-                    <input type="checkbox" id="toggleB" class="sr-only">
+                    <input type="checkbox" id="agree" class="sr-only">
                     <div class="bg block bg-stone-800 w-7 h-4 rounded-full transition"></div>
                     <div style="top: 1.75px;" class="dot absolute left-0.5 bg-white w-3 h-3 rounded-full transition"></div>
                 </div>
@@ -33,7 +33,7 @@
                 </label>
             </div>
             <br><br>
-            <button data-bs-toggle="modal" data-bs-target="#exampleModalCenter" id="submit" type="submit" class="mt bg-stone-900 hover:bg-stone-800 duration-500 rounded w-40 text-white py-1 appearance-none border-2 border-yellow-700 rounded leading-tight focus:outline-none focus:border-yellow-600 mb-3">Login</button>
+            <button onclick="login()" data-bs-toggle="modal" data-bs-target="#exampleModalCenter" id="submit" type="submit" class="mt bg-stone-900 hover:bg-stone-800 duration-500 rounded w-40 text-white py-1 appearance-none border-2 border-yellow-700 rounded leading-tight focus:outline-none focus:border-yellow-600 mb-3">Login</button>
             <br>
             <label class="items-center cursor-pointer text-white font-thin">
                 Don't have a account? <a class="text-orange-200" href="/register">Sign up</a>
@@ -55,12 +55,51 @@
                     data-bs-dismiss="modal" aria-label="Close"><i class="fa-solid fa-xmark text-xl leading-normal"></i></button>
                 </div>
                 <div class="modal-body relative p-4">
-                  <h3 class="text-yellow-500 font-thin text-2xl">Something went wrong... We're not sure what though.</h3>
+                  <h3 class="text-yellow-500 font-thin text-2xl" id="notification">Loading... Please wait.</h3>
                 </div>
               </div>
             </div>
         </div>
     </div>
 </body>
+<script>
+var user = localStorage.getItem('username');
+
+if(user) {
+    $('#username').val(user)
+}
+    
+function login() {
+    document.getElementById("notification").textContent = "Loading.. Please wait.";
+    var username = $('#username').val();
+    var password = $('#password').val();
+
+    if($("#agree").is(':checked')) {
+        localStorage.setItem('username', username);
+    }
+    
+    $.ajax({
+        url:"/login",
+        type:"POST",
+
+        data:{
+            user:username,
+            password:password
+        },headers: {
+            'X-CSRFtoken': "{{csrf_token()}}"
+        },
+        success:function(response) {
+            document.getElementById("notification").textContent = "Successfully Logged in!";
+            setTimeout(() => { location.reload(); }, 100);
+            return 
+        },
+        error:function(response){
+            document.getElementById("notification").textContent = response.responseText;
+            return
+        }
+
+    });
+}
+</script>
 <script src="https://cdn.jsdelivr.net/npm/tw-elements/dist/js/index.min.js"></script>
 </html>

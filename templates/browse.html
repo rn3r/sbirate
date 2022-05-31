@@ -9,19 +9,24 @@
         {% include 'header.html' %}
     </header>
     <br><br><br>
-    <span class="grid grid-cols-1 gap-5 py-5 big-pad">
+    <span class="grid xs:grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5 2xl:grid-cols-7 gap-4 py-2 px-5">
         {% for episode in episodes %}
-        <span class="text-white rounded bg-stone-900 hover:bg-stone-800 duration-500">
+        <span class="text-white rounded hover:bg-stone-800 duration-500 h-fit">
             <a href='{{episode["redirect"]}}' class="cursor-pointer">
-                <div>
-                    <img src='{{episode["image"]}}' class="float-left mr-5 rounded-l-lg stretch">
-                    <div class="px-3">
-                        <h1 class="font-bold text-2xl">{{episode["title"]}}</h1>
-                        <small><small class="font-md">{{episode["airdate"]}}</small></small>
-                        <div class="flex flex-col mt-auto py-10">
-                            <h1 class="font-thin text-md">{{episode["description"]}}<br><small class="text-gray-400">{{episode["length"]}}</small></h1>
-                        </div>
+                <div class="hover:border-white hover:border-2 border-0 rounded-lg border-stone-800 duration-200">
+                    {% if episode["title"] == "last watching" %}
+                    <img loading="lazy" src='{{episode["image"]}}' class="rounded-lg stretch border-red-700 border-4 border-solid">
+                    <div class="py-2 px-2">
+                        <h1><small class="font-md">{{episode["airdate"]}}</small><small class="float-right text-gray-400 ml-2">{{episode["length"]}}</small></h1>
+                        <h1 class="font-black">{{episode["title"]}}</h1>
                     </div>
+                    {% else %}
+                    <img loading="lazy" src='{{episode["image"]}}' class="rounded-lg stretch" width="100%">
+                    <div class="py-2 px-2">
+                        <h1><small class="font-md">{{episode["airdate"]}}</small><small class="float-right text-gray-400 ml-2">{{episode["length"]}}</small></h1>
+                        <h1 class="font-md">{{episode["title"]}}</h1>
+                    </div>
+                    {% endif %}
                 </div>
             </a>
         </span>

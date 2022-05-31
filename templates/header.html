@@ -1,8 +1,13 @@
 <nav v-if="isLoaded" class="text-yellow-500">
     <div class="pc">
         <a class="font-black float-left text-2xl" href="/">Spirate</a>
+        {% if "sessid" not in session %}
         <a class="font-black right-0 float-right ml-5 underline underline-offset-1 text-orange-400 mt-1" href="/register">Register</a>
         <a class="font-black right-0 float-right ml-5 underline underline-offset-1 text-orange-400 mt-1" href="/login">Login</a>
+        {% else %}
+        <a class="font-black right-0 float-right ml-5 underline underline-offset-1 text-orange-400 mt-1" href="/account">Account</a>
+        <a class="font-black right-0 float-right ml-5 underline underline-offset-1 text-orange-400 mt-1" href="/logout">Logout</a>
+        {% endif %}
         <a class="font-black right-0 float-right ml-5 mt-1" href="/episodes">Episodes</a>
         <a class="font-black right-0 float-right ml-5 mt-1" href="/info">Information</a>
     </div>
